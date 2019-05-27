@@ -19,19 +19,19 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack Starter Kit
+title:                 Winter Workshop on Complex Systems 2020
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
-  Open `_config.yml` to edit this text.
+  The Winter Workshop on Complex Systems is a one-week workshop where young researchers from all over the world
+  gather together for discussing about complexity science and engaging into novel research projects.
+  This is the 6th edition of the WWCS and will be held in Switzerland.
+  Previously it was held in Brussels, Madrid and Petnica, Utrecht and Zakopane.
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
+  27 January -- 31 January 2020 Switzerland
 
 # A list of keywords for your blog
 keywords:              []
@@ -39,7 +39,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/icon.png
+logo:                  /assets/icons/icon@3x.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -49,13 +49,31 @@ author:
   # twitter:             <username>
 
 # Add links to the sidebar.
+#menu:
+#  - title:             Example
+#    url:               /example/
+#  - title:             Documentation
+#    url:               https://hydejack.com/docs/
+#  - title:             About
+#    url:               /about/
+
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               https://hydejack.com/docs/
-  - title:             About
-    url:               /about/
+  - title: Home
+    url:   /index/
+  - title: Programme
+    url:   /programme/
+  - title: Speakers
+    url:   /speakers/
+  - title: Venue
+    url:   /venue/
+  - title: Registration
+    url: /registration/
+  - title: Contacts
+    url:   /contacts/
+  - title: Application
+    url:   /application/
+  - title: Sponsors
+    url:   /sponsors/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -80,7 +98,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/image/swissbg.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
