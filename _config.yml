@@ -58,8 +58,6 @@ author:
 #    url:               /about/
 
 menu:
-  - title: Home
-    url:   /index/
   - title: Programme
     url:   /programme/
   - title: Speakers
