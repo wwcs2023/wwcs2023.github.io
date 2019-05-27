@@ -43,10 +43,10 @@ logo:                  /assets/icons/icon@3x.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                wwcs2020
+  email:               wwcs2020@gmail.com
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             winter_complex
 
 # Add links to the sidebar.
 #menu:
