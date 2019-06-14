@@ -16,7 +16,7 @@ title:  Speakers
 
 <p style="text-align:center;"><img src="/assets/image/simondedeo.jpg" width="500" height="300" alt="Paris" class="center" /></p>
 
-[Simon DeDeo](http://santafe.edu/~simon) s a professor of Social and Decision Sciences at Carnegie Mellon University, and external faculty at the Santa Fe Institute. He leads the Laboratory for Social Minds, a cross-disciplinary group of data science researchers in the cognitive and social sciences. Recent work has studied question-answer dynamics, cultural evolution in the online alt-Right, identity encoding in British theater, inductive structures of mathematical proofs, and two hundred years of diaries from Russia.
+[Simon DeDeo](http://santafe.edu/~simon) is a professor of Social and Decision Sciences at Carnegie Mellon University, and external faculty at the Santa Fe Institute. He leads the Laboratory for Social Minds, a cross-disciplinary group of data science researchers in the cognitive and social sciences. Recent work has studied question-answer dynamics, cultural evolution in the online alt-Right, identity encoding in British theater, inductive structures of mathematical proofs, and two hundred years of diaries from Russia.
 {: style="text-align: justify"}
 
 
