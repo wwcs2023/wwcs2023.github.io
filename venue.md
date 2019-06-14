@@ -13,6 +13,5 @@ WWCS 2020 will take place at: [Centre de Vacances Gruyer](http://www.centre-vaca
 
 This is how the venue looks like in winter:
 
-|<img src="/assets/image/chalet1.jpg" width = "300" height = "300" /> |  <img src="/assets/image/chalet2.jpg" width = "200" height = "300" /> |
+<img src="/assets/image/chalet1.jpg" width = "400" height = "400" /> |  <img src="/assets/image/chalet2.jpg" width = "400" height = "400" /> 
 :-------------------------:|:-------------------------:
-|<img src="/assets/image/chalet1.jpg" width = "300" height = "300" /> |  <img src="/assets/image/chalet2.jpg" width = "200" height = "300" /> |
