@@ -23,9 +23,12 @@ Workshop Dates: **27 January - 31 January 2020**
 
 **How to Apply**
 
-This edition will have 2 rounds of applications. The first round (early application) will guarantee to accepted participants a grant covering part of the expenses (travel) for the workshop.
+This edition will have 2 rounds of applications.
+Participating to the first round of application will provide to few selected applicants (e.g. 10) the possibility to obtain a partial reimbursement of their expenses sponsored by the Swiss National Science Foundation. Individuals applying in the first round will have the possibility to automatically transfer their application to the second round by filling the appropriate section of the application form.
 
-For other info and application check the Application page.
+<!--The first round (early application) will guarantee to accepted participants a grant covering part of the expenses (travel) for the workshop.-->
+
+For other info and application form check the Application page.
 
 **About the Workshop**
 
