@@ -26,7 +26,7 @@ Travel from Lausanne to the venue on Monday morning will be provided.
 
 By plane:
 
-The closest major airport to Lausanne is [Geneva Airport](https://www.gva.ch/en/): all major airlines have connections to Geneva, including low-cost airline such as Easyjet.
+The closest major airport to Lausanne is [Geneva Airport](https://www.gva.ch/en/). All major airlines have connections to Geneva, including low-cost airline such as Easyjet.
 
 By train:
 
