@@ -2,7 +2,6 @@
 layout: page
 title:  Speakers
 ---
-<!-- https://mmistakes.github.io/jekyll-theme-basically-basic/markup/markup-image-alignment/ -->
 ## Céline Rozenblat
 
 <p style="text-align:center;"><img src="/assets/image/celroz.png" width="250" height="300" alt="Paris" class="center" /></p>
@@ -37,3 +36,5 @@ She collected several papers on the topic, both with national and International 
 {: style="text-align: justify"}
 
 -->
+
+<!-- https://mmistakes.github.io/jekyll-theme-basically-basic/markup/markup-image-alignment/ -->
