@@ -23,19 +23,11 @@ Workshop Dates: **27 January - 31 January 2020**
 
 **How to Apply**
 
-This edition will have 2 rounds of applications.
-Participating to the first round of application will provide to few selected applicants (e.g. 10) the possibility to obtain a partial reimbursement of their expenses sponsored by the Swiss National Science Foundation. Individuals applying in the first round will have the possibility to automatically transfer their application to the second round by filling the appropriate section of the application form.
+This edition will have two rounds of applications. Participating to the first round will provide the possibility for a limited number of applicants to obtain a partial reimbursement of their travel expenses sponsored by the Swiss National Science Foundation. Applicants not selected in the first round will have the possibility to automatically transfer their application to the second round by filling the appropriate section of the application form. 
 
 <!--The first round (early application) will guarantee to accepted participants a grant covering part of the expenses (travel) for the workshop.-->
 
 For other info and application form check the Application page.
-
-**About the Workshop**
-
-The Winter Workshop on Complex Systems originates from the initiative of a few individuals attending the Santa Fe Institute Summer School on Complex Systems 2014. The group sequentially became part of the current WWCS Steering Committee. Over the years, the workshop has grown into a larger community attracting young researchers from all over the world.
-The Winter Workshop on Complex Systems is a one-week workshop where young researchers from all over the world gather together for discussing about complexity science and engaging into novel research projects.
-During the workshop participants work on research projects whose preliminary results are presented at the end of the workshop. Participants are free to propose research projects and to discuss them until the beginning of the workshop on a dedicated web platform.
-
 
 **Contacts**
 
