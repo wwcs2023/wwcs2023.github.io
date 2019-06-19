@@ -6,7 +6,7 @@ title: Winter Workshop on Complex Systems 2020
 ---
 The [Winter Workshop on Complex Systems](http://wwcs.altervista.org/) is a one-week workshop where young researchers from all over the world
 gather together for discussing about complexity science and engaging into novel research projects.
-This is the 6th edition of the WWCS and will be held in Switzerland from 27 January to 31 January 2020.
+This is the 6th edition of the WWCS and it will be held in Switzerland from January 27th to January 31st 2020.
 Previously it was held in [Brussels](https://ai.vub.ac.be/complexity/), [Madrid](http://wwcs2016.altervista.org/wwcswordyversion/?doing_wp_cron=1557075926.8519909381866455078125) and [Petnica](https://wwcs2017ed.wixsite.com/wwcs), [Utrecht](https://wwcs2018.github.io/) and [Zakopane](http://wwcs2019.org).
 
 **Important Dates**
@@ -21,13 +21,12 @@ Notification of acceptance (regular application): tba
 
 Workshop Dates: **27 January - 31 January 2020**
 
-**How to Apply**
+<!--**How to Apply**
 
-This edition will have two rounds of applications. Participating to the first round will provide the possibility for a limited number of applicants to obtain a partial reimbursement of their travel expenses sponsored by the Swiss National Science Foundation. Applicants not selected in the first round will have the possibility to automatically transfer their application to the second round by filling the appropriate section of the application form. 
-
-<!--The first round (early application) will guarantee to accepted participants a grant covering part of the expenses (travel) for the workshop.-->
+This edition will have two rounds of applications. Participating to the first round will provide the possibility for a limited number of applicants to obtain a partial reimbursement of their travel expenses sponsored by the Swiss National Science Foundation. Applicants not selected in the first round will have the possibility to automatically transfer their application to the second round by filling the appropriate section of the application form.
 
 For other info and application form check the Application page.
+-->
 
 **Contacts**
 
