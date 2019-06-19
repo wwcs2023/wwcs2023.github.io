@@ -22,4 +22,4 @@ You can contact us at [wwwcs2020@gmail.com](mailto:wwwcs2020@gmail.com) or write
 |**Mateusz Wiliński**|**Sanja Selakovic**|**Tomasz Raducha**|
 |:-------------------------:|:-------------------------:  |:-------------------------:   |
 |<img src="/assets/image/mateusz.jpg" width="150" height="175" /> | <img src="/assets/image/sanja.jpg" width="150" height="175" /> | <img src="/assets/image/tomasz.jpg" width="150" height="175" />
-|Scuola Normale Superiore di Pisa, Italy|University of Warsaw, Poland|Utrecht University, The Netherlands|
+|Scuola Normale Superiore di Pisa, Italy|University of Warsaw, Poland|Utrecht University, \n The Netherlands|
