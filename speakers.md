@@ -18,7 +18,7 @@ title:  Speakers
 
 ## Fabiana Zollo
 
-<p style="text-align:center;"><img src="/assets/image/fabianazollo.jpg" width="300" height="300" alt="Paris" class="center" /></p>
+<p style="text-align:center;"><img src="/assets/image/fabianazollo.jpg" width="400" height="300" alt="Paris" class="center" /></p>
 
 [Fabiana Zollo](https://www.unive.it/data/persone/14075308), is assistant professor in the Dept. of Environmental Sciences, Informatics and Statistics and Research Fellow in the Center for the Humanities & Social Change at Ca’ Foscari University of Venice. Her research investigates (mis)information spreading on online social media, with a special focus on the dynamics of polarization and intolerance, and the evolution of collective narratives.
 She collected several papers on the topic, both with national and International co-authors. Her research outcomes have been included in the Global Risk Report 2017 of the World Economic Forum, widely covered by the media (among the others: The New York Times, The Washington Post, The Economist, Bloomberg View, The Guardian, Phys.org, El Pais) and disseminated internationally (Le Scienze, Pour La Science, Spektrum, Scientific American, Investigatión y Ciencia). She participated in European projects such as H2020 EU project QUEST "Quality and Effectiveness in Science and Technology Communication" (2019-2021) and "Overcoming Polarisation and Misinformation around Migration in Italy" in collaboration with London School of Economics (LSE) and Corriere della Sera (2017-2019).
