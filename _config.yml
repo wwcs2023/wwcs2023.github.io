@@ -24,10 +24,10 @@ title:                 Winter Workshop on Complex Systems 2020
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  The Winter Workshop on Complex Systems is a one-week workshop where young researchers from all over the world
-  gather together for discussing about complexity science and engaging into novel research projects.
-  This is the 6th edition of the WWCS and will be held in Switzerland.
-  Previously it was held in Brussels, Madrid and Petnica, Utrecht and Zakopane.
+#  The Winter Workshop on Complex Systems is a one-week workshop where young researchers from all over the world
+#  gather together for discussing about complexity science and engaging into novel research projects.
+#  This is the 6th edition of the WWCS and will be held in Switzerland.
+#  Previously it was held in Brussels, Madrid and Petnica, Utrecht and Zakopane.
 
 # A shorter description for the sidebar.
 tagline:               >

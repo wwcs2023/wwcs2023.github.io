@@ -11,6 +11,6 @@ During the workshop participants work on research projects whose preliminary res
 
 This is a small photo album of last year edition and if you want to know more about WWCS please visit the main website.
 
-<img src="/assets/image/wwcs2018_1.jpg" width="200" height="200" /> |<img src="/assets/image/wwcs2019_1.jpg" width="200" height="200" />|<img src="/assets/image/wwcs2019_3.jpg" width="200" height="200" />
+<img src="/assets/image/wwcs2018_1.jpg" width="300" height="300" /> |<img src="/assets/image/wwcs2019_1.jpg" width="300" height="300" />|<img src="/assets/image/wwcs2019_3.jpg" width="300" height="300" />
 :-------------------------:|:-------------------------:  |:-------------------------:   
-<img src="/assets/image/wwcs2018_2.jpg" width="200" height="200" /> |<img src="/assets/image/wwcs2017_1.jpg" width="200" height="200" />|<img src="/assets/image/wwcs2019_2.jpg" width="200" height="200" />|
+<img src="/assets/image/wwcs2018_2.jpg" width="300" height="300" /> |<img src="/assets/image/wwcs2017_1.jpg" width="300" height="300" />|<img src="/assets/image/wwcs2019_2.jpg" width="300" height="300" />|
