@@ -1,7 +1,7 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: about #home
+layout: about #home il layout home ti mette la lista di pagine
 title: Winter Workshop on Complex Systems 2020
 ---
 The [Winter Workshop on Complex Systems](http://wwcs.altervista.org/) is a one-week workshop where young researchers from all over the world
