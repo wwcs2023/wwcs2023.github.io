@@ -4,7 +4,7 @@ title:  Speakers
 ---
 ## Céline Rozenblat
 
-<p style="text-align:center;"><img src="/assets/image/celroz.png" width="250" height="300" alt="Paris" class="center" /></p>
+<p style="text-align:center;"><img src="/assets/image/celroz.png" width="250" alt="Paris" class="center" /></p>
 
 [Céline Rozenblat](https://applicationspub.unil.ch/interpub/noauth/php/Un/UnPers.php?PerNum=1048878&LanCode=37), is professor of Urban Geography at the University of Lausanne, Switzerland and president of the urban commission of the International Geographical Union (IGU). She studies systems of cities at European and world scales, multinational firm networks, inter-urban dynamics, comparative urban data, mapping and visualization of networks in geography, and spatial analysis. For several years she has worked on the relations between the evolution of multi-level urban processes and dynamics in city-system networks. To study these topics comparatively, she has built many databases on large European and worldwide cities and the networks they form. In particular, she has dealt since 1990 with databases on multinational firm networks and on city properties and evolution in a multi-dimensional and long temporal approach. Diachronic and dynamic studies supply materials to develop spatial and dynamic models and visualizations. She participated in European projects like ESPON FOCI 2008-2011, FP7 FET Insite (2011-2013) and Multiplex (2012-2016). She also participates to the EuropeAid project with China MEDIUM (2015-2019) on medium size cities in China and launched two projects LOGIICCS (FNS 2015-2018) and MEDIUM (SWISS-Conf. 2016-2018) on modeling Indian and Chinese cities’ integration in global networks of multinational firms and innovation.
 {: style="text-align: justify"}
