@@ -5,7 +5,7 @@ title:  Programme
 
 The current programme is just a sketch and it will be subject to modifications:
 
-<p style="text-align:center;"><img src="/assets/image/program.png" width="820" height="650" alt="Paris" class="center" /></p>
+<p style="text-align:center;"><img src="/assets/image/program.png" width="950" height="650" alt="Paris" class="center" /></p>
 
 
 <!--
