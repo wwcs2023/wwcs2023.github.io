@@ -10,9 +10,9 @@ More information about the venue is available [here](http://www.centre-vacances-
 
 This is how the venue looks like in winter:
 
-<img src="/assets/image/chalet1.jpg" height = "400" /> |  <img src="/assets/image/chalet2.jpg" height = "400" />
+<img src="/assets/image/chalet1.jpg" width="100%" /> |  <img src="/assets/image/chalet2.jpg" width="100%" />
 :-------------------------:|:-------------------------:
-<img src="/assets/image/chalet3.jpg" height = "400" /> |  <img src="/assets/image/chalet4.jpg" height = "400" />
+<img src="/assets/image/chalet3.jpg" width="100%" /> |  <img src="/assets/image/chalet4.jpg" width="100%" />
 
 <!-- Add a description of the venue -->
 <!--  I used this website https://www.embedgooglemap.net/) -->
