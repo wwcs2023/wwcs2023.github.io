@@ -10,7 +10,7 @@ During the workshop participants work on research projects whose preliminary res
 This is a small photo gallery of previous editions and if you want to know more about WWCS please visit the main [website](http://wwcs.altervista.org/?doing_wp_cron=1560936723.2174730300903320312500).
 
 
-<img src="/assets/image/wwcs2018_1.jpg" width = "350" height = "300" /> |  <img src="/assets/image/wwcs2019_1.jpg" width = "350" height = "300" />
+<img src="/assets/image/wwcs2018_1.jpg" width="100%" /> |  <img src="/assets/image/wwcs2019_1.jpg" width="100%" />
 :-------------------------:|:-------------------------:
-<img src="/assets/image/wwcs2019_3.jpg" width = "350" height = "300" /> |  <img src="/assets/image/wwcs2018_2.jpg" width = "350" height = "300" />
-<img src="/assets/image/wwcs2017_1.jpg" width = "350" height = "300" /> |  <img src="/assets/image/wwcs2019_2.jpg" width = "350" height = "300" />
+<img src="/assets/image/wwcs2019_3.jpg" width="100%" /> |  <img src="/assets/image/wwcs2018_2.jpg" width="100%" />
+<img src="/assets/image/wwcs2017_1.jpg" width="100%" /> |  <img src="/assets/image/wwcs2019_2.jpg" width="100%" />
