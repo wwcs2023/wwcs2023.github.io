@@ -24,17 +24,11 @@ title:  Speakers
 She collected several papers on the topic, both with national and International co-authors. Her research outcomes have been included in the Global Risk Report 2017 of the World Economic Forum, widely covered by the media (among the others: The New York Times, The Washington Post, The Economist, Bloomberg View, The Guardian, Phys.org, El Pais) and disseminated internationally (Le Scienze, Pour La Science, Spektrum, Scientific American, Investigatión y Ciencia). She participated in European projects such as H2020 EU project QUEST "Quality and Effectiveness in Science and Technology Communication" (2019-2021) and "Overcoming Polarisation and Misinformation around Migration in Italy" in collaboration with London School of Economics (LSE) and Corriere della Sera (2017-2019).
 {: style="text-align: justify"}
 
-
-<!--
-# Guest Speakers
-
 ## Claudio J. Tessone
 
 <p style="text-align:center;"><img src="/assets/image/claudiotessone.jpg" width="290" height="300" alt="Paris" class="center" /></p>
 
 [Claudio J. Tessone](https://www.business.uzh.ch/en/research/professorships/networkscience/people/Prof.-Dr-Claudio-J.-Tessone.html) has an ongoing interest in the modelling of complex socio-economic and socio-technical systems by recourse of network science and complex systems approaches. This includes how the networks of interactions and intrinsic or acquired agent heterogeneity modify processes such as diffusion and assimilation of external influences. This kind of research encompasses a variety of contexts, ranging from advertisement adoption, to social influence, and game theoretic settings.
 {: style="text-align: justify"}
-
--->
 
 <!-- https://mmistakes.github.io/jekyll-theme-basically-basic/markup/markup-image-alignment/ -->
