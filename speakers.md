@@ -26,7 +26,7 @@ She collected several papers on the topic, both with national and International 
 
 ## Claudio J. Tessone
 
-<p style="text-align:center;"><img src="/assets/image/claudiotessone.png" width="300" alt="Paris" class="center" /></p>
+<p style="text-align:center;"><img src="/assets/image/claudiotessone.jpg" width="300" alt="Paris" class="center" /></p>
 
 [Claudio J. Tessone](https://www.business.uzh.ch/en/research/professorships/networkscience/people/Prof.-Dr-Claudio-J.-Tessone.html) is assistant professor in Network Science at the University of Zurich (Faculty of Business, Economics and Informatics). He is co-founder and member of the Steering Committee of the UZH Blockchain Centre and co-director of the Priority Programme on Social Networks.
 With a long experience in the modelling and analysis of complex socio-economic systems, Blockchain-based systems and cryptocurrencies that are a pillar of his research (being among the first to study them). This includes cryptoeconomics (from financial aspects to meso- and macro- properties, such as their emergent centralisation), big-data blockchain analytics and forensics, design of blockchain-based systems, and characterisation of economic incentives that are present (by design or set inadvertently) in them. Beyond these aspects, his research encompasses a variety of contexts, ranging from advertisement adoption, to social influence, and game theoretic settings. He holds a Phd in Physics from University de les Illes Balears (on effects of agent heterogeneity in complex systems) and an Habilitation on Complex-Socio Economic Systems from ETH Zurich (where he worked for 7 years).
