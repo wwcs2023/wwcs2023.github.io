@@ -32,7 +32,7 @@ Workshop Dates: **27 January - 31 January 2020**
 
 **Fees**
 
-Workshop fee is 200 CHF (~180€) and it includes:
+Workshop registration fee is 200 CHF (~180€) and it includes:
 
 - Accommodation from Monday to Friday (4 nights)
 

@@ -21,7 +21,7 @@ To know if you need a visa to Switzerland, please refer to:  <https://www.scheng
 
 **Fees**
 
-Workshop fee is 200 CHF (~180€) and it includes:
+Workshop registration fee is 200 CHF (~180€) and it includes:
 
 - Accommodation from Monday to Friday (4 nights)
 
