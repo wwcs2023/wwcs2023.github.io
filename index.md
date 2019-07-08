@@ -30,6 +30,22 @@ Workshop Dates: **27 January - 31 January 2020**
 
 \* _Dates are still subject to changes_.
 
+**Fees**
+
+Workshop fee is 200 CHF (~180€) and it includes:
+
+- Accommodation from Monday to Friday (4 nights)
+
+- Breakfast + Lunch + Dinner
+
+- Coffee Break
+
+- Social Dinner
+
+- Transport Lausanne-Gruyère-Lausanne
+
+Details about the payment method will be communicated after acceptance notifications.
+
 **Contacts**
 
 Email us at: [wwwcs2020@gmail.com](mailto:wwwcs2020@gmail.com)
