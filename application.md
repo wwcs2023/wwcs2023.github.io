@@ -3,6 +3,8 @@ layout: page
 title:  Application
 ---
 
+## Early Application
+
 Participating in the first round of applications will provide to a few selected applicants the possibility to obtain a partial reimbursement of their travel expenses sponsored by the Swiss National Science Foundation.
 
 The travel reimbursement will cover public transportation fees and economy-class flights up to CHF 200.- for participants coming from Europe (and outside of Switzerland) and up to CHF 500.- for participants coming from outside of Europe.
