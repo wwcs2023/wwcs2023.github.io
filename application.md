@@ -15,4 +15,4 @@ Applicants not selected during the first call will have the possibility to autom
 
 <!--The application form is available at [this](www.google.com) website.-->
 
-You will be asked to attach your CV in pdf format (max 5 pages, with up to 3 publications).
+You will be asked to attach your CV in pdf format (max 5 pages, including a selection of your most relevant publications).
