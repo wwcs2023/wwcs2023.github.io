@@ -4,7 +4,7 @@
 layout: about #home il layout home ti mette la lista di pagine
 title: Winter Workshop on Complex Systems 2020
 ---
-The [Winter Workshop on Complex Systems](http://wwcs.altervista.org/) is a one-week workshop where young researchers from all over the world gather together for discussing about complexity science. 
+The [Winter Workshop on Complex Systems](http://wwcs.altervista.org/) is a one-week workshop where young researchers from all over the world gather together for discussing about complexity science.
 
 The primary focus of the workshop is for participants to engage into novel research projects.
 
@@ -13,22 +13,22 @@ Previously it was held in [Brussels](https://ai.vub.ac.be/complexity/), [Madrid]
 
 **Important Dates**
 
-Deadline for early application: tba
+Early applications:
+- Start of applications: July 8th
+- Deadline for applications: July 17th
+- Notification of acceptance: August 9th
 
-Deadline for application: tba
+Regular applications\*:
+- Start of applications: October 7th
+- Deadline for applications: October 20th
+- Notification of acceptance: November 10th
 
-Notification of acceptance (early application): tba
-
-Notification of acceptance (regular application): tba
+Registration deadline*:
+- December 1st
 
 Workshop Dates: **27 January - 31 January 2020**
 
-<!--**How to Apply**
-
-This edition will have two rounds of applications. Participating to the first round will provide the possibility for a limited number of applicants to obtain a partial reimbursement of their travel expenses sponsored by the Swiss National Science Foundation. Applicants not selected in the first round will have the possibility to automatically transfer their application to the second round by filling the appropriate section of the application form.
-
-For other info and application form check the Application page.
--->
+\* _Dates are still subject to changes_.
 
 **Contacts**
 
