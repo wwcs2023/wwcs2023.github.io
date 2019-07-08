@@ -2,7 +2,7 @@
 layout: page
 title:  Application
 ---
-## Early Application
+### Early Application
 
 Participating in the first round of applications will provide to a few selected applicants the possibility to obtain a partial reimbursement of their travel expenses sponsored by the Swiss National Science Foundation.
 
