@@ -17,4 +17,4 @@ Applicants not selected during the first call will have the possibility to autom
 
 You will be asked to attach your CV in pdf format (max 5 pages, including a selection of your most relevant publications).
 
-To know if you need a visa to Switzerland, please refer to:  https://www.schengenvisainfo.com/who-needs-schengen-visa/
+To know if you need a visa to Switzerland, please refer to:  <https://www.schengenvisainfo.com/who-needs-schengen-visa/>
