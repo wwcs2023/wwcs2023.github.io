@@ -13,7 +13,7 @@ Notification will be given about four months after the closing of the first roun
 
 Applicants not selected during the first call will have the possibility to automatically transfer their application to the second round by selecting the appropriate section of the application form.
 
-<!--**The application form is available at [this](https://docs.google.com/forms/d/e/1FAIpQLSdxfyNIgSYoNgIiq1lD2aleHOGknUsl2UeciGEFjAPzB1HQCg/viewform?usp=sf_link) website.** -->
+**The application form is available at [this](https://docs.google.com/forms/d/e/1FAIpQLSdxfyNIgSYoNgIiq1lD2aleHOGknUsl2UeciGEFjAPzB1HQCg/viewform?usp=sf_link) link.**
 
 You will be asked to attach your CV in pdf format (max 5 pages, including a selection of your most relevant publications).
 
