@@ -2,6 +2,10 @@
 layout: page
 title:  Application
 ---
+
+This edition will have *two* rounds of applications.
+The *first* round (early application) takes place in July, the *second* round (regular application) in October.
+
 ### Early Application
 
 Participating in the first round of applications will provide to a few selected applicants the possibility to obtain a partial reimbursement of their travel expenses sponsored by the Swiss National Science Foundation.

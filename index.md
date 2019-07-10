@@ -9,7 +9,11 @@ The [Winter Workshop on Complex Systems](http://wwcs.altervista.org/) is a one-w
 **The primary focus of the workshop is for participants to engage into novel research projects.**
 
 This is the 6th edition of the WWCS and it will be held in Switzerland from January 27th to January 31st 2020.
-Previously it was held in [Brussels](https://ai.vub.ac.be/complexity/), [Madrid](http://wwcs2016.altervista.org/wwcswordyversion/?doing_wp_cron=1557075926.8519909381866455078125) and [Petnica](https://wwcs2017ed.wixsite.com/wwcs), [Utrecht](https://wwcs2018.github.io/) and [Zakopane](http://wwcs2019.org).
+Previously it was held in [Brussels](https://ai.vub.ac.be/complexity/), [Madrid](http://wwcs2016.altervista.org/wwcswordyversion/?doing_wp_cron=1557075926.8519909381866455078125), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), [Utrecht](https://wwcs2018.github.io/) and [Zakopane](http://wwcs2019.org).
+
+This edition will have *two* rounds of applications. Participating to the first round will provide the possibility for a limited number of applicants to obtain a partial reimbursement of their travel expenses sponsored by the Swiss National Science Foundation. Applicants not selected in the first round will have the possibility to automatically transfer their application to the second round by filling the appropriate section of the application form.
+
+The *first* round takes place in July, the *second* round in October.
 
 **Important Dates**
 
