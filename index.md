@@ -4,7 +4,11 @@
 layout: about #home il layout home ti mette la lista di pagine
 title: Winter Workshop on Complex Systems 2020
 ---
-The [Winter Workshop on Complex Systems](http://wwcs.altervista.org/) is a one-week workshop where young researchers from all over the world gather together for discussing about complexity science.
+The [Winter Workshop on Complex Systems](http://wwcs.altervista.org/) is a one-week workshop where young researchers from all over the world gather together for discussing about complex systems.
+
+A [complex system](https://en.wikipedia.org/wiki/Complex_system) is a system composed of many components which may interact with each other. Examples of complex systems are Earth's global climate, organisms, diseases, the human brain, infrastructure such as power grid, transportation or communication systems, social and economic organizations (like cities), an ecosystem, a living cell, and ultimately the entire universe.
+
+The study of complex systems calls for an interdisciplinary approach combining disciplines such as Biology, Computer Science, Data Science, Economics, Mathematics, Physics and Sociology.
 
 **The primary focus of the workshop is for participants to engage into novel research projects.**
 
