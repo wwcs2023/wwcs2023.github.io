@@ -44,7 +44,7 @@ Details about the payment method will be communicated after acceptance notificat
 
 Early applications:
 - Start of applications: July 8th
-- Deadline for applications: ~~July 17th~~ July 19th
+- Deadline for applications: ~~July 17th~~ **Extended to** July 19th
 - Notification of acceptance: August 9th
 
 Regular applications\*:
