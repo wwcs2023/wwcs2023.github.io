@@ -56,7 +56,7 @@ Details about the payment method will be communicated after acceptance notificat
 
 **Contacts**
 
-Email us at: [wwwcs2020@gmail.com](mailto:wwwcs2020@gmail.com)
+Email us at: [wwwcs2020@gmail.com](mailto:wwcs2020@gmail.com)
 <!-- Twitter: "@wwcs2020" -->
 
 

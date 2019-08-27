@@ -3,7 +3,7 @@ layout: page
 title:  Contacts
 ---
 
-You can contact us at [wwwcs2020@gmail.com](mailto:wwwcs2020@gmail.com) or write us directly using the following information.
+You can contact us at [wwcs2020@gmail.com](mailto:wwwcs2020@gmail.com) or write us directly using the following information.
 
 ## Organizers
 
