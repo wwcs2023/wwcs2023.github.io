@@ -5,7 +5,7 @@ title:  Programme
 
 The current programme is subject to modifications:
 
-<p style="text-align:center;"><img src="/assets/image/Program_WWCS2020.png" width="900" alt="Paris" class="center" /></p>
+<p style="text-align:center;"><img src="/assets/image/Program.png" width="900" alt="Paris" class="center" /></p>
 
 
 <!--
