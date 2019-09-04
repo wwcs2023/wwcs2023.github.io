@@ -3,4 +3,4 @@ layout: page
 title:  Sponsors
 ---
 
-tba
+<img src="/assets/image/SNF_LOGO.png" width="100%" />
