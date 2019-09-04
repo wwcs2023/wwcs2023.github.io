@@ -3,7 +3,7 @@ layout: page
 title:  Sponsors
 ---
 
-[<img src="/assets/image/SNF_LOGO.png" width="30%" />](http://www.snf.ch/en/Pages/default.aspx)
+[<img src="/assets/image/SNF_LOGO.png" width="40%" />](http://www.snf.ch/en/Pages/default.aspx)
 
 <br/>
 
