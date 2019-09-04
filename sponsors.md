@@ -3,6 +3,12 @@ layout: page
 title:  Sponsors
 ---
 
+[<img src="/assets/image/SNF_LOGO.png" width="50%" />](http://www.snf.ch/en/Pages/default.aspx)
+
+<!--
+
 |                |                 |                     |
 |:-------------------------:|:-------------------------:  |:-------------------------:   |
 |<img src="/assets/image/SNF_LOGO.png" width="120%" /> | <img src="/assets/image/UZH_LOGO.png" width="75%" /> | <img src="/assets/image/SN_LOGO.png" width="75%"  />
+
+-->
