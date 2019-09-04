@@ -5,7 +5,9 @@ title:  Sponsors
 
 [<img src="/assets/image/SNF_LOGO.png" width="50%" />](http://www.snf.ch/en/Pages/default.aspx)
 
-[<img src="/assets/image/UZH_LOGO.png" width="25%%" />][https://www.uzh.ch/en.html]
+<br/>
+
+[<img src="/assets/image/UZH_LOGO.png" width="25%%" />](https://www.uzh.ch/en.html)
 
 <!--
 
