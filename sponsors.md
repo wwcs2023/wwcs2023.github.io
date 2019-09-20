@@ -19,4 +19,4 @@ title:  Sponsors
 
 <br/>
 
-[<img src="/assets/image/ETH_LOGO.png" width="40%" />](https://dlab.epfl.ch)
+[<img src="/assets/image/ETH_LOGO.png" width="35%" />](https://ethz.ch/en.html)
