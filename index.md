@@ -52,7 +52,22 @@ Workshop registration fee is 200 CHF (~180€) and it includes:
 
 - Transport Lausanne-Gruyère-Lausanne
 
-Details about the payment method will be communicated after acceptance notifications.
+Details about the payment method: 
+
+**Bank transfer**
+
+Address:
+Winter Workshop on Complex Systems Association
+Zürich
+Switzerland
+
+IBAN : CH02 0900 0000 1534 2239 1
+
+BIC : POFICHBEXXX
+
+Reference/Message: YourName_reg
+
+For international transfers, always provide the IBAN and the BIC.
 
 **Contacts**
 
