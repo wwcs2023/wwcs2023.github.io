@@ -12,22 +12,20 @@ Workshop Dates: **27 January - 31 January 2020**
 
 **The application form is available at [this](https://docs.google.com/forms/d/e/1FAIpQLSdxfyNIgSYoNgIiq1lD2aleHOGknUsl2UeciGEFjAPzB1HQCg/viewform?usp=sf_link) link.**
 
-You will be asked to attach your CV in pdf format (max 5 pages, including a selection of your most relevant publications).
+You will be asked to attach your CV in pdf format (max 5 pages, including a list of your most relevant publications).
 
 To know if you need a visa to Switzerland, please refer to:  <https://www.schengenvisainfo.com/who-needs-schengen-visa/>
 
 
 # Registration
 
-## Registration Fees:
-
-Workshop registration fee is CHF 200.- (~180€) and it includes:
+The workshop registration fee is CHF 200.- (~185€) and it includes:
 
 - Accommodation from Monday to Friday (4 nights)
 
 - Breakfast + Lunch + Dinner (From Monday Lunch to Friday Lunch)
 
-- Coffee Break
+- Coffee Breaks
 
 - Social Dinner
 
@@ -40,9 +38,9 @@ Workshop registration fee is CHF 200.- (~180€) and it includes:
 
 ## Payment method:
 
-To pay the registration fee, please make a bank transfer of ChF 200.- **in swiss francs** with the mention "FirstName_LastName" to the following account:   
+To pay the registration fee, please make a bank transfer of CHF 200.- **in swiss francs** with the mention "FirstName_LastName" to the following account:   
 
-Address:
+Address:  
 Winter Workshop on Complex Systems Association  
 Zürich  
 Switzerland  
@@ -56,4 +54,3 @@ Reference/Message: FirstName_LastName
 For international transfers, always provide the IBAN and the BIC.
 
 
-\* _Dates are still subject to changes_.
