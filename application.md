@@ -3,20 +3,12 @@ layout: page
 title:  Application
 ---
 
-This edition will have *two* rounds of applications.
-The *first* round (early application) takes place in July, the *second* round (regular application) in October.
+- Start of applications: October 7th
+- Deadline for applications: October 20th
+- Notification of acceptance: November 10th
 
-### Early Application
+Workshop Dates: **27 January - 31 January 2020**
 
-Participating in the first round of applications will provide to a few selected applicants the possibility to obtain a partial reimbursement of their travel expenses sponsored by the Swiss National Science Foundation.
-
-The travel reimbursement will cover public transportation fees and economy-class flights up to CHF 200.- for participants coming from Europe (and outside of Switzerland) and up to CHF 500.- for participants coming from outside of Europe.
-
-There is no guarantee that these travel funds will be provided to the selected participants, however a place at the workshop will be reserved for them.
-
-Notification will be given about four months after the closing of the first round of applications.
-
-Applicants not selected during the first call will have the possibility to automatically transfer their application to the second round by selecting the appropriate section of the application form.
 
 **The application form is available at [this](https://docs.google.com/forms/d/e/1FAIpQLSdxfyNIgSYoNgIiq1lD2aleHOGknUsl2UeciGEFjAPzB1HQCg/viewform?usp=sf_link) link.**
 
@@ -24,13 +16,16 @@ You will be asked to attach your CV in pdf format (max 5 pages, including a sele
 
 To know if you need a visa to Switzerland, please refer to:  <https://www.schengenvisainfo.com/who-needs-schengen-visa/>
 
-**Fees**
 
-Workshop registration fee is 200 CHF (~180€) and it includes:
+# Registration
+
+## Registration Fees:
+
+Workshop registration fee is CHF 200.- (~180€) and it includes:
 
 - Accommodation from Monday to Friday (4 nights)
 
-- Breakfast + Lunch + Dinner
+- Breakfast + Lunch + Dinner (From Monday Lunch to Friday Lunch)
 
 - Coffee Break
 
@@ -38,38 +33,27 @@ Workshop registration fee is 200 CHF (~180€) and it includes:
 
 - Transport Lausanne-Gruyère-Lausanne
 
-Details about the payment method: <!--will be communicated after acceptance notifications.-->
 
-**Bank transfer**
+## Registration deadline:
+- December 1st
+
+
+## Payment method:
+
+To pay the registration fee, please make a bank transfer of ChF 200.- **in swiss francs** with the mention "FirstName_LastName" to the following account:   
 
 Address:
-Winter Workshop on Complex Systems Association
-Zürich
-Switzerland
+Winter Workshop on Complex Systems Association  
+Zürich  
+Switzerland  
 
-IBAN : CH02 0900 0000 1534 2239 1
+IBAN : CH02 0900 0000 1534 2239 1  
 
-BIC : POFICHBEXXX
+BIC : POFICHBEXXX  
 
-Reference/Message: YourName_reg
+Reference/Message: FirstName_LastName  
 
 For international transfers, always provide the IBAN and the BIC.
 
-**Important Dates**
-
-Early applications:
-- Start of applications: July 8th
-- Deadline for applications: ~~July 17th~~ **Extended to** July 19th
-- Notification of acceptance: August 9th
-
-Regular applications\*:
-- Start of applications: October 7th
-- Deadline for applications: October 20th
-- Notification of acceptance: November 10th
-
-Registration deadline*:
-- December 1st
-
-Workshop Dates: **27 January - 31 January 2020**
 
 \* _Dates are still subject to changes_.

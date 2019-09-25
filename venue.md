@@ -32,9 +32,9 @@ The closest major airport to Lausanne is [Geneva Airport](https://www.gva.ch/en/
 
 [Lausanne Station](https://www.sbb.ch/en/station-services/railway-stations/lausanne-station.html): most high speed European trains stop in Lausanne (https://www.raileurope.com/).
 
-**Accommodation**
+## Accommodation in Lausanne
 
-List of affordable accommodations in Lausanne for the weekend before/after the workshop:
+Some affordable accommodations in Lausanne for the weekend before/after the workshop:
 - [Lausanne youth hostel](https://www.youthhostel.ch/en/hostels/lausanne-jeunotel/)
 - [Hotel du Marché](https://www.hoteldumarche-lausanne.ch)
 - [Ibis Lausanne Centre](https://www.accorhotels.com/gb/hotel-6772-ibis-lausanne-centre/index.shtml)

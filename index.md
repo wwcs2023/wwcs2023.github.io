@@ -27,7 +27,8 @@ The study of complex systems calls for an interdisciplinary approach combining d
 ## Registration deadline:
 - December 1st
 
-## Workshop Dates: **27 January - 31 January 2020**
+## Workshop Dates:
+- **27 January - 31 January 2020**
 
 
 # Contacts
