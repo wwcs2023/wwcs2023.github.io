@@ -9,6 +9,10 @@ title:  Sponsors
 
 [<img src="/assets/image/UZH_LOGO.png" width="40%" />](https://www.uzh.ch/en.html)
 
+<!--<br/>
+
+[<img src="/assets/image/URPPSN_LOGO.png" width="40%" />](https://www.socialnetworks.uzh.ch/en.html)-->
+
 <br/>
 
 [<img src="/assets/image/DLAB_LOGO.png" width="20%" />](https://dlab.epfl.ch)
