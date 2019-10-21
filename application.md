@@ -4,7 +4,7 @@ title:  Application
 ---
 
 - Start of applications: October 7th
-- Deadline for applications: October 20th
+- Deadline for applications: <s>October 20th</s> October 23rd
 - Notification of acceptance: November 10th
 
 Workshop Dates: **27 January - 31 January 2020**
@@ -52,5 +52,3 @@ BIC : POFICHBEXXX
 Reference/Message: FirstName_LastName  
 
 For international transfers, always provide the IBAN and the BIC.
-
-

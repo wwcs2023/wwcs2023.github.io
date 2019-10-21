@@ -21,7 +21,7 @@ The study of complex systems calls for an interdisciplinary approach combining d
 
 ## Applications:
 - Start of applications: October 7th
-- Deadline for applications: October 20th
+- Deadline for applications: <s>October 20th</s> October 23rd
 - Notification of acceptance: November 10th
 
 ## Registration deadline:
