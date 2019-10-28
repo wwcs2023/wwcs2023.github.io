@@ -10,7 +10,7 @@ title:  Application
 Workshop Dates: **27 January - 31 January 2020**
 
 
-**The application form is available at [this](https://docs.google.com/forms/d/e/1FAIpQLSdxfyNIgSYoNgIiq1lD2aleHOGknUsl2UeciGEFjAPzB1HQCg/viewform?usp=sf_link) link.**
+<!--**The application form is available at [this](https://docs.google.com/forms/d/e/1FAIpQLSdxfyNIgSYoNgIiq1lD2aleHOGknUsl2UeciGEFjAPzB1HQCg/viewform?usp=sf_link) link.**-->
 
 You will be asked to attach your CV in pdf format (max 5 pages, including a list of your most relevant publications).
 
