@@ -2,7 +2,7 @@
 layout: page
 title:  Venue
 ---
-The workshop will take place in a big chalet in the village of [Charmey](http://www.val-de-charmey.ch), in the district of [Gruyère](https://www.la-gruyere.ch/en/) in Switzerland.
+The workshop will take place in a big chalet in the village of [Charmey](http://www.val-de-charmey.ch), in the district of [Gruyère](https://www.la-gruyere.ch/en/) in Switzerland. 
 
 The rooms have bunkbeds (maximum 4 persons per room) and are equipped with a sink. Shared toilets and showers are outside the rooms.
 
