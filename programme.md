@@ -7,7 +7,6 @@ All the activities on Sunday and Friday are intended to happen in Lausanne.
 
 On Monday morning a bus will transfer the participants from Lausanne to the venue of the workshop in Charmey. On Friday morning a bus will transfer the participants from the venue to Lausanne.
 
-<br/>
 
 The current programme is subject to modifications.
 
