@@ -39,7 +39,8 @@ The workshop registration fee is CHF 200.- (~185€) and it includes:
 ## Payment method:
 
 TBA
-<!--To pay the registration fee, please make a bank transfer of CHF 200.- **in swiss francs** with the mention "FirstName_LastName" to the following account:   
+
+<!-- To pay the registration fee, please make a bank transfer of CHF 200.- **in swiss francs** with the mention "FirstName_LastName" to the following account:   
 
 Address:  
 Winter Workshop on Complex Systems Association  
@@ -52,4 +53,4 @@ BIC : POFICHBEXXX
 
 Reference/Message: FirstName_LastName  
 
-For international transfers, always provide the IBAN and the BIC.-->
+For international transfers, always provide the IBAN and the BIC. -->
