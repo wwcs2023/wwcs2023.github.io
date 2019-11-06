@@ -20,3 +20,7 @@ title:  Sponsors
 <br/>
 
 [<img src="/assets/image/ETH_LOGO.png" width="35%" />](https://ethz.ch/en.html)
+
+<br/>
+
+[<img src="/assets/image/LOGO_frontiers_Gray.png" width="20%" />](https://ethz.ch/en.html)
