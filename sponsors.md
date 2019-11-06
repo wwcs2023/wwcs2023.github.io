@@ -23,4 +23,4 @@ title:  Sponsors
 
 <br/>
 
-[<img src="/assets/image/LOGO_frontiers_Gray.png" width="20%" />](https://ethz.ch/en.html)
+[<img src="/assets/image/LOGO_frontiers_Grey.png" width="20%" />](https://www.frontiersin.org/)
