@@ -23,7 +23,7 @@ title:  Sponsors
 
 <br/>
 
-[<img src="/assets/image/LOGO_novartis.png" width="55%" />](https://www.novartis.com/)
+[<img src="/assets/image/LOGO_novartis.png" width="45%" />](https://www.novartis.com/)
 
 <br/>
 
@@ -31,4 +31,4 @@ title:  Sponsors
 
 <br/>
 
-[<img src="/assets/image/logo_css.png" width="35%" />](https://cssociety.org/home)
+[<img src="/assets/image/logo_css.png" width="45%" />](https://cssociety.org/home)
