@@ -23,4 +23,8 @@ title:  Sponsors
 
 <br/>
 
+[<img src="/assets/image/LOGO_novartis.png" width="25%" />](https://www.novartis.com/)
+
 [<img src="/assets/image/LOGO_frontiers_Grey.png" width="20%" />](https://www.frontiersin.org/)
+
+[<img src="/assets/image/logo_css.png" width="20%" />](https://cssociety.org/home)
