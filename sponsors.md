@@ -27,7 +27,7 @@ title:  Sponsors
 
 <br/>
 
-[<img src="/assets/image/LOGO_frontiers_Grey.png" width="20%" />](https://www.frontiersin.org/)
+[<img src="/assets/image/LOGO_frontiers_Grey.png" width="25%" />](https://www.frontiersin.org/)
 
 <br/>
 
