@@ -32,3 +32,7 @@ title:  Sponsors
 <br/>
 
 [<img src="/assets/image/logo_css.png" width="45%" />](https://cssociety.org/home)
+
+<br/>
+
+[<img src="/assets/image/LOGO_RVB.png" width="30%" />](https://www.ccif.ch/)
