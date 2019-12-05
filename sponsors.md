@@ -7,11 +7,15 @@ title:  Sponsors
 
 <br/>
 
+[<img src="/assets/image/LOGO_unilgs.png" width="30%" />](https://www.unil.ch/gse/fr/home.html)
+
+<br/>
+
+[<img src="/assets/image/LOGO_SwissGeocomputingCenter.png" width="30%" />](http://wp.unil.ch/geocomputing/)
+
+<br/>
+
 [<img src="/assets/image/UZH_LOGO.png" width="40%" />](https://www.uzh.ch/en.html)
-
-<!--<br/>
-
-[<img src="/assets/image/URPPSN_LOGO.png" width="40%" />](https://www.socialnetworks.uzh.ch/en.html)-->
 
 <br/>
 
