@@ -7,11 +7,11 @@ title:  Sponsors
 
 <br/>
 
-[<img src="/assets/image/LOGO_unilgs.png" width="30%" />](https://www.unil.ch/gse/fr/home.html)
+[<img src="/assets/image/LOGO_unilgs.png" width="40%" />](https://www.unil.ch/gse/fr/home.html)
 
 <br/>
 
-[<img src="/assets/image/LOGO_SwissGeocomputingCenter.png" width="30%" />](http://wp.unil.ch/geocomputing/)
+[<img src="/assets/image/LOGO_SwissGeocomputingCenter.png" width="40%" />](http://wp.unil.ch/geocomputing/)
 
 <br/>
 
@@ -19,7 +19,7 @@ title:  Sponsors
 
 <br/>
 
-[<img src="/assets/image/DLAB_LOGO.png" width="20%" />](https://dlab.epfl.ch)
+[<img src="/assets/image/LOGO_novartis.png" width="45%" />](https://www.novartis.com/)
 
 <br/>
 
@@ -27,7 +27,11 @@ title:  Sponsors
 
 <br/>
 
-[<img src="/assets/image/LOGO_novartis.png" width="45%" />](https://www.novartis.com/)
+[<img src="/assets/image/LOGO_RVB.png" width="35%" />](https://www.ccif.ch/)
+
+<br/>
+
+[<img src="/assets/image/DLAB_LOGO.png" width="20%" />](https://dlab.epfl.ch)
 
 <br/>
 
@@ -36,7 +40,3 @@ title:  Sponsors
 <br/>
 
 [<img src="/assets/image/logo_css.png" width="45%" />](https://cssociety.org/home)
-
-<br/>
-
-[<img src="/assets/image/LOGO_RVB.png" width="35%" />](https://www.ccif.ch/)
