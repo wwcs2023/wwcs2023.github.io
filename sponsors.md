@@ -35,4 +35,4 @@ title:  Sponsors
 
 <br/>
 
-[<img src="/assets/image/LOGO_RVB.png" width="30%" />](https://www.ccif.ch/)
+[<img src="/assets/image/LOGO_RVB.png" width="35%" />](https://www.ccif.ch/)
