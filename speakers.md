@@ -16,7 +16,7 @@ title:  Speakers
 [Simon DeDeo](http://santafe.edu/~simon) is a professor of Social and Decision Sciences at Carnegie Mellon University, and external faculty at the Santa Fe Institute. He leads the Laboratory for Social Minds, a cross-disciplinary group of data science researchers in the cognitive and social sciences. Recent work has studied question-answer dynamics, cultural evolution in the online alt-Right, identity encoding in British theater, inductive structures of mathematical proofs, and two hundred years of diaries from Russia.
 {: style="text-align: justify"}
 
-Abstract and title of the talk:
+Title and abstract of the talk:
 
 **Cultural Macroevolution and the New Synthesis**
 
@@ -31,7 +31,7 @@ Evolution is the most powerful creative force known to humankind. Our species ga
 She collected several papers on the topic, both with national and International co-authors. Her research outcomes have been included in the Global Risk Report 2017 of the World Economic Forum, widely covered by the media (among the others: The New York Times, The Washington Post, The Economist, Bloomberg View, The Guardian, Phys.org, El Pais) and disseminated internationally (Le Scienze, Pour La Science, Spektrum, Scientific American, Investigatión y Ciencia). She participated in European projects such as H2020 EU project QUEST "Quality and Effectiveness in Science and Technology Communication" (2019-2021) and "Overcoming Polarisation and Misinformation around Migration in Italy" in collaboration with London School of Economics (LSE) and Corriere della Sera (2017-2019).
 {: style="text-align: justify"}
 
-Abstract and title of the talk:
+Title and abstract of the talk:
 
 **From confirmation bias to echo-chambers. A data-driven approach**
 
@@ -46,7 +46,7 @@ The advent of the Internet and web technologies have radically changed the parad
 With a long experience in the modelling and analysis of complex socio-economic systems, Blockchain-based systems and cryptocurrencies that are a pillar of his research (being among the first to study them). This includes cryptoeconomics (from financial aspects to meso- and macro- properties, such as their emergent centralisation), big-data blockchain analytics and forensics, design of blockchain-based systems, and characterisation of economic incentives that are present (by design or set inadvertently) in them. Beyond these aspects, his research encompasses a variety of contexts, ranging from advertisement adoption, to social influence, and game theoretic settings. He holds a Phd in Physics from University de les Illes Balears (on effects of agent heterogeneity in complex systems) and an Habilitation on Complex-Socio Economic Systems from ETH Zurich (where he worked for 7 years).
 {: style="text-align: justify"}
 
-Abstract and title of the talk:
+Title and abstract of the talk:
 
 **Blockchains and Cryptocurrencies: the complexity in techno-economic systems**
 
