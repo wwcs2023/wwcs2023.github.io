@@ -16,6 +16,12 @@ title:  Speakers
 [Simon DeDeo](http://santafe.edu/~simon) is a professor of Social and Decision Sciences at Carnegie Mellon University, and external faculty at the Santa Fe Institute. He leads the Laboratory for Social Minds, a cross-disciplinary group of data science researchers in the cognitive and social sciences. Recent work has studied question-answer dynamics, cultural evolution in the online alt-Right, identity encoding in British theater, inductive structures of mathematical proofs, and two hundred years of diaries from Russia.
 {: style="text-align: justify"}
 
+Abstract and title of the talk:
+
+**Cultural Macroevolution and the New Synthesis**:
+
+Evolution is the most powerful creative force known to humankind. Our species gave it a new domain to operate on, and a massively accelerated timescale that got us from small scale tribes to a global metacivilization in less than five thousand years. The study of cultural evolution has undergone a recent Renaissance as biology, cognitive science, and the quantitative social sciences converge on a “New Synthesis”. I’ll introduce this tripartite framework, and some of its most interesting theoretical ideas and controversies. Then, with some simple tools from machine learning and data science, we will look at a series of case studies from contemporary and historical human cultures, with the goal of developing basic skills in empirical studies on large scale archives.
+
 ## Fabiana Zollo
 
 <p style="text-align:center;"><img src="/assets/image/fabianazollo.jpg" width="400" alt="Paris" class="center" /></p>
