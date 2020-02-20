@@ -1,6 +1,6 @@
 ---
 layout: about
-title:  Gallery
+title: Gallery
 ---
 
-<img src="/assets/image/group_picture1.jpg" width="100%" />
+<img src="/assets/image/group_picture1.jpg" width="80%" />
