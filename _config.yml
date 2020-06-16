@@ -30,8 +30,9 @@ description:           >
 #  Previously it was held in Brussels, Madrid and Petnica, Utrecht and Zakopane.
 
 # A shorter description for the sidebar.
-tagline:               >
-  Begin Date -- End Date 2021 Country
+tagline:               >    
+  
+#Begin Date -- End Date 2021 Country
 
 # A list of keywords for your blog
 keywords:              []
