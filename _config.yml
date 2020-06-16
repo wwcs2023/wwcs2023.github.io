@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://wwcs2020.github.io
+url:                   https://wwcs2021.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Winter Workshop on Complex Systems 2020
+title:                 Winter Workshop on Complex Systems 2021
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -31,7 +31,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  27 January -- 31 January 2020 Switzerland
+  Begin Date -- End Date 2021 Country
 
 # A list of keywords for your blog
 keywords:              []
@@ -43,11 +43,11 @@ logo:                  /assets/icons/icon@3x.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                wwcs2020
-  email:               wwcs2020@gmail.com
+  name:                wwcs2021
+  email:               2021wwcs@gmail.com
   # Used by `jekyll-seo-tag`:
   twitter:             winter_complex
-  github:              wwcs2020
+  github:              wwcs2021
 
 # Add links to the sidebar.
 #menu:
@@ -89,7 +89,7 @@ menu:
 #     url:               /cookies-policy/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:            WWCS © 2019. All rights reserved.
+copyright:            WWCS © 2021. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
