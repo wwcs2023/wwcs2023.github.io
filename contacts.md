@@ -3,10 +3,6 @@ layout: page
 title:  Contacts
 ---
 
----
-layout: page
-title:  Contacts
----
 
 You can contact us at [wwcs2022@gmail.com](mailto:wwwcs2022@gmail.com) or write us directly using the following information.
 
