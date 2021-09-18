@@ -14,3 +14,5 @@ This is a small photo gallery of previous editions and if you want to know more 
 :-------------------------:|:-------------------------:
 <img src="/assets/image/wwcs2019_3.jpg" width="100%" /> |  <img src="/assets/image/wwcs2018_2.jpg" width="100%" />
 <img src="/assets/image/wwcs2017_1.jpg" width="100%" /> |  <img src="/assets/image/wwcs2019_2.jpg" width="100%" />
+
+<img src="/assets/image/wwcs2020.jpg" width="100%" /> 
