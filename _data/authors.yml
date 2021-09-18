@@ -3,8 +3,8 @@
 # You can change `author1` to your shortname.
 author1:
   # Replace <...> with your own (remove the < >)
-  name:              wwcs2021
-  email:             2021wwcs@gmail.com
+  name:              wwcs2022
+  email:             wwcs2022@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
