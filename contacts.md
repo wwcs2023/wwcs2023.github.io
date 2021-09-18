@@ -8,7 +8,7 @@ You can contact us at [wwcs2022@gmail.com](mailto:wwwcs2022@gmail.com) or write 
 
 ## Organizers
 
-Organizers will be listed here soon.
+Organizers will be listed here.
 
 ## Steering Committee
 
