@@ -8,10 +8,10 @@ You can contact us at [wwcs2022@gmail.com](mailto:wwwcs2022@gmail.com) or write 
 
 ## Organizers
 
-|:-------------------------:|:-------------------------:  |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 |<img src="/assets/image/claire.jpg" width="100%"  /> | [Claire Lagesse](http://thema.univ-fcomte.fr/page_personnelle/clagesse) <br/> University of Bourgogne Franche-Comté, <br> France|
 |<img src="/assets/image/hanae.jpeg" width="100%"  /> | [Hanae El Gouj](http://thema.univ-fcomte.fr/page_personnelle/hanae) <br/> University of Bourgogne Franche-Comté, <br> France|
-|<img src="/assets/image/furkan.jpeg" width="100%"  /> | [Furkan Gursoy](https://furkangursoy.github.io) <br/> Boğaziçi University, <br> Turkey|
+|<img src="/assets/image/furkan.png" width="100%"  /> | [Furkan Gursoy](https://furkangursoy.github.io) <br/> Boğaziçi University, <br> Turkey|
 |<img src="/assets/image/blank.png" width="100%"  /> | [Anna Keuchenius](https://www.uva.nl/en/profile/k/e/a.keuchenius/a.keuchenius.html) <br/> University of Amsterdam, <br> Netherlands|
 |<img src="/assets/image/blank.png" width="100%"  /> | [Irene Malvestio](https://www.som.polimi.it/people/malvestio-irene/) <br/> Politecnico di Milano, <br> Italy|
 |<img src="/assets/image/chakresh.png" width="100%"  /> | [Chakresh Kr. Singh](https://chakreshiitgn.github.io/) <br/> CRI, <br> France|
