@@ -23,7 +23,7 @@ You can contact us at [wwcs2022@gmail.com](mailto:wwwcs2022@gmail.com) or write 
 |Sanja Selakovic|Leto Peel|Mateusz Wiliński|Tomasz Raducha|
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 |<img src="/assets/image/sanja_150.jpg" height="150px" /> | <img src="/assets/image/leopen_150.jpg" height="150px" /> | <img src="/assets/image/mateusz_150.jpg" height="150px"  /> | <img src="/assets/image/tomasz.jpg" height="150px"  />|
-|Wageningen University, <br> Netherlands|Maastricht University, <br> Netherlands|Los Alamos National Laboratory, <br> United States|Institute for Cross-Disciplinary Physics and Complex Systems, <br> Spain|
+|Wageningen University, <br> Netherlands|Maastricht University, <br> Netherlands|Los Alamos National Laboratory, <br> United States|Institute for Cross-Disciplinary Physics <br> and Complex Systems,Spain|
 
 |Javier Garcia-Bernardo|Alexandre Bovet|Matteo Cinelli|
 |:-------------------------:|:-------------------------:|:-------------------------:|
