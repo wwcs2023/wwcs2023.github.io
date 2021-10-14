@@ -10,7 +10,6 @@ You can contact us at [wwcs2022@gmail.com](mailto:wwwcs2022@gmail.com) or write 
 
 |[Claire Lagesse](http://thema.univ-fcomte.fr/page_personnelle/clagesse)|[Hanae El Gouj](http://thema.univ-fcomte.fr/page_personnelle/hanae)|[Furkan Gursoy](https://furkangursoy.github.io)|[Anna Keuchenius](https://www.uva.nl/en/profile/k/e/a.keuchenius/a.keuchenius.html)|
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-
 |<img src="/assets/image/claire.jpg" height="150px"  />|<img src="/assets/image/hanae.jpg" height="150px"  />|<img src="/assets/image/furkan.png" height="150px"  />|<img src="/assets/image/blank.png" height="150px"  /> | 
 |University of Bourgogne Franche-Comté, <br> France|University of Bourgogne Franche-Comté, <br> France|Boğaziçi University, <br> Turkey|University of Amsterdam, <br> Netherlands|
 
