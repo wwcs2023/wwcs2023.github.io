@@ -8,15 +8,16 @@ You can contact us at [wwcs2022@gmail.com](mailto:wwwcs2022@gmail.com) or write 
 
 ## Organizers
 
-|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="/assets/image/claire.jpg" height="150px"  /> | [Claire Lagesse](http://thema.univ-fcomte.fr/page_personnelle/clagesse) <br/> University of Bourgogne Franche-Comté, <br> France|
-|<img src="/assets/image/hanae.jpg" height="150px"  /> | [Hanae El Gouj](http://thema.univ-fcomte.fr/page_personnelle/hanae) <br/> University of Bourgogne Franche-Comté, <br> France|
-|<img src="/assets/image/furkan.png" height="150px"  /> | [Furkan Gursoy](https://furkangursoy.github.io) <br/> Boğaziçi University, <br> Turkey|
-|<img src="/assets/image/blank.png" height="150px"  /> | [Anna Keuchenius](https://www.uva.nl/en/profile/k/e/a.keuchenius/a.keuchenius.html) <br/> University of Amsterdam, <br> Netherlands|
-|<img src="/assets/image/blank.png" height="150px"  /> | [Irene Malvestio](https://www.som.polimi.it/people/malvestio-irene/) <br/> Politecnico di Milano, <br> Italy|
-|<img src="/assets/image/chakresh.png" height="150px"  /> | [Chakresh Kr. Singh](https://chakreshiitgn.github.io/) <br/> CRI, <br> France|
-|<img src="/assets/image/liubov.png" height="150px"  /> | [Liubov Tupikina](https://sites.google.com/view/liubovkmatematike/) <br/> Nokia Bell Labs & CRI <br> France|
+|[Claire Lagesse](http://thema.univ-fcomte.fr/page_personnelle/clagesse)|[Hanae El Gouj](http://thema.univ-fcomte.fr/page_personnelle/hanae)|[Furkan Gursoy](https://furkangursoy.github.io)|[Anna Keuchenius](https://www.uva.nl/en/profile/k/e/a.keuchenius/a.keuchenius.html)|
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 
+|<img src="/assets/image/claire.jpg" height="150px"  />|<img src="/assets/image/hanae.jpg" height="150px"  />|<img src="/assets/image/furkan.png" height="150px"  />|<img src="/assets/image/blank.png" height="150px"  /> | 
+|University of Bourgogne Franche-Comté, <br> France|University of Bourgogne Franche-Comté, <br> France|Boğaziçi University, <br> Turkey|University of Amsterdam, <br> Netherlands|
+
+|[Irene Malvestio](https://www.som.polimi.it/people/malvestio-irene/)|[Chakresh Kr. Singh](https://chakreshiitgn.github.io/)|[Liubov Tupikina](https://sites.google.com/view/liubovkmatematike/)|
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img src="/assets/image/blank.png" height="150px"  /> |<img src="/assets/image/chakresh.png" height="150px"  />|<img src="/assets/image/liubov.png" height="150px"  />|
+|Politecnico di Milano, <br> Italy|CRI, <br> France|Nokia Bell Labs & CRI <br> France|
 
 ## Steering Committee
 
