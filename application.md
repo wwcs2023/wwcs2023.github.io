@@ -3,14 +3,14 @@ layout: page
 title:  Application
 ---
 
-- Start of applications: TBA
-- Deadline for applications: TBA
-- Notification of acceptance: TBA
+- Start of applications: 15th October 2022
+- Deadline for applications: 30th October 2022
+- Notification of acceptance: 15th November 2022
 
 Workshop Dates: **24 January - 28 January 2022**
 
 
-<!--**The application form is available at [this](https://docs.google.com/forms/d/e/1FAIpQLSdxfyNIgSYoNgIiq1lD2aleHOGknUsl2UeciGEFjAPzB1HQCg/viewform?usp=sf_link) link.**-->
+<!--**The application form is available at [this](https://forms.gle/j7RwefC6E4wK6kAJ9) link.**-->
 
 <!--**You will be asked to attach your CV in pdf format (max 5 pages, including a list of your most relevant publications).**-->
 
