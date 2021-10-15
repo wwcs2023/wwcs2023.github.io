@@ -19,9 +19,6 @@ The study of complex systems calls for an interdisciplinary approach combining d
 
 # Important Dates
 
-<right>
-<a class="twitter-timeline" data-width="300" data-height="550" href="https://twitter.com/winter_complex">Tweets by wwcs</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </right>
-
 
 ## Applications:
 - Start of applications: TBA
@@ -39,3 +36,6 @@ The study of complex systems calls for an interdisciplinary approach combining d
 
 Email us at: [wwwcs2022@gmail.com](mailto:wwcs2022@gmail.com)
 <!-- Twitter: "@winter_complex" -->
+
+<center>
+<a class="twitter-timeline" data-width="300" data-height="550" href="https://twitter.com/winter_complex">Tweets by wwcs</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </center>
