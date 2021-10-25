@@ -3,7 +3,7 @@ layout: page
 title:  Application
 ---
 
-- Start of applications: October 15th, 2021
+- Start of applications: October 25th, 2021
 - Deadline for applications: November 8th, 2021
 - Notification of acceptance: November 22nd, 2021
 
