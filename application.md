@@ -19,7 +19,6 @@ Application details will be announced on this page.
 
 To know if you need a visa to France, please refer to:  <https://france-visas.gouv.fr/en_US/web/france-visas/ai-je-besoin-d-un-visa>
 
-<!--**
 # Registration
 
 The workshop registration fee is 200 (~€) and it includes:
