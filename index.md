@@ -21,12 +21,13 @@ The study of complex systems calls for an interdisciplinary approach combining d
 
 
 ## Applications:
-- Start of applications: TBA
-- Deadline for applications: TBA
-- Notification of acceptance: TBA
+- Start of applications: October 15th, 2021
+- Deadline for applications: November 8th, 2021
+- Notification of acceptance: November 22nd, 2021
+
 
 ## Registration deadline:
-- TBA
+- December 1st, 2021
 
 ## Workshop Dates:
 - **24 January - 28 January 2022**
