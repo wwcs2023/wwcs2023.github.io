@@ -24,14 +24,10 @@ To know if you need a visa to France, please refer to:  <https://france-visas.go
 The workshop registration fee is 200 (~€) and it includes:
 
 - Accommodation from Monday to Friday (4 nights)
-
 - Breakfast + Lunch + Dinner (From Monday Lunch to Friday Lunch)
-
 - Coffee Breaks
-
 - Social Dinner
-
-- Transport X-Y-X**
+- Transport : Besançon - Arc-et-Senans
 
 
 ## Registration deadline:
