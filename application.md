@@ -15,8 +15,6 @@ The application form is available at [this](https://forms.gle/j7RwefC6E4wK6kAJ9)
 
 <!--**You will be asked to attach your CV in pdf format (max 5 pages, including a list of your most relevant publications).**-->
 
-Application details will be announced on this page.
-
 To know if you need a visa to France, please refer to:  <https://france-visas.gouv.fr/en_US/web/france-visas/ai-je-besoin-d-un-visa>
 
 # Registration
