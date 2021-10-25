@@ -3,14 +3,15 @@ layout: page
 title:  Application
 ---
 
-- Start of applications: TBA
-- Deadline for applications: TBA
-- Notification of acceptance: TBA
+- Start of applications: October 15th, 2021
+- Deadline for applications: November 8th, 2021
+- Notification of acceptance: November 22nd, 2021
+
 
 Workshop Dates: **24 January - 28 January 2022**
 
 
-<!--**The application form is available at [this](https://forms.gle/j7RwefC6E4wK6kAJ9) link.**-->
+The application form is available at [this](https://forms.gle/j7RwefC6E4wK6kAJ9) link.
 
 <!--**You will be asked to attach your CV in pdf format (max 5 pages, including a list of your most relevant publications).**-->
 
@@ -21,7 +22,7 @@ To know if you need a visa to France, please refer to:  <https://france-visas.go
 <!--**
 # Registration
 
-The workshop registration fee is CHF .- (~€) and it includes:
+The workshop registration fee is 200 (~€) and it includes:
 
 - Accommodation from Monday to Friday (4 nights)
 
@@ -35,7 +36,7 @@ The workshop registration fee is CHF .- (~€) and it includes:
 
 
 ## Registration deadline:
-- 
+- December 1st, 2021
 
 
 ## Payment method:
