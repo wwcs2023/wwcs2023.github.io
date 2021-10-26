@@ -4,7 +4,7 @@
 layout: about #home il layout home ti mette la lista di pagine
 title: Winter Workshop on Complex Systems 2022
 ---
-The **Winter Workshop on Complex Systems** is a one-week workshop where young researchers from all over the world gather together for discussing about complex systems.
+The **Winter Workshop on Complex Systems** is a one-week workshop where young researchers from all over the world gather together for discussing complex systems.
 
 **The primary focus of the workshop is for participants to engage into novel research projects.**
 
