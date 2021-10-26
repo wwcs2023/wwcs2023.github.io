@@ -27,6 +27,9 @@ The workshop registration fee is 200 (~€) and it includes:
 - Social Dinner
 - Transport : Besançon - Arc-et-Senans
 
+Please note that we are organising this as an onsite event. However, for very limited cases we offer an online participation. 
+The fees for online participation is 50 (~€). 
+
 
 ## Registration deadline:
 - December 1st, 2021
