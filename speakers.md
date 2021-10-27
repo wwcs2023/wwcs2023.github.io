@@ -13,7 +13,8 @@ Since January 2018, I am deputy director of the Centre de Physique Théorique.
 
 [David Chavalarias](https://iscpif.fr/chavalarias/) - CNRS Research Director, Center for Social Mathematics Analysis (CAMS), School of Advanced Studies in Social Sciences (EHESS). Director of the Complex Systems Institute of Paris Île-de-France.
 
-**Bio** - 
+**Bio** - David Chavalarias is the director of the Complex Systems Institute of Paris Ile-de-France. He holds a PhD from the Ecole Polytechnique in cognitive sciences and is graduated from the Ecole Normale Supérieure de Cachan in Mathematics and Computer Sciences. Currently permanent researcher at the National Center for Scientific Research (CNRS) in France, he studies the social and cognitive dynamics, both from the modelling and data-mining point of view. His research is strongly interdisciplinary and includes: quantitative epistemology, information visualization, modelling of the cultural dynamics, socio-semantic networks modelling, scientific discovery processes and cognitive economics. He has been involved in the design of several interfaces for mapping knowledge dynamics
+from large corpora : academic digital repositories, online media or press and had developed an original to analyse science dynamics : phylomemy reconstruction.
 
 <img src="/assets/image/speakers_2022/linda.jpg" width="25%"/>
 
