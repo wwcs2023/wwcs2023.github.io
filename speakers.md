@@ -2,7 +2,7 @@
 layout: page
 title:  Speakers
 ---
-<img style="float: center;" src="/assets/image/speakers_2022/alain.jpg" width="20%"/>
+<img style="float: centre;" src="/assets/image/speakers_2022/alain.jpg" width="20%"/>
 
 [Alain Barrat](http://www.cpt.univ-mrs.fr/~barrat/) - Research Director at CNRS. France Deputy Director of the Centre de Physique Theorique. Specially appointed professor at the Tokyo Tech World Research Hub Initiative (WHRI).
 
