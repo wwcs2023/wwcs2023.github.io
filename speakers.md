@@ -2,12 +2,12 @@
 layout: page
 title:  Speakers
 ---
-|<img src="/assets/image/speakers_2022/alain.jpg" width="20%"/>|[Alain Barrat](http://www.cpt.univ-mrs.fr/~barrat/) - Research Director at CNRS. France Deputy Director of the Centre de Physique Theorique. Specially appointed professor at the Tokyo Tech World Research Hub Initiative (WHRI).|
+|<img src="/assets/image/speakers_2022/alain.jpg" width="15%"/>|[Alain Barrat](http://www.cpt.univ-mrs.fr/~barrat/) - Research Director at CNRS. France Deputy Director of the Centre de Physique Theorique. Specially appointed professor at the Tokyo Tech World Research Hub Initiative (WHRI).|
 
 **Bio** - I obtained my PhD in theoretical physics at the university of Paris VI (France) in 1996, under the supervision of M. Mézard. The subject of the thesis was the out-of-equilibrium dynamics of spin glasses. I then spent two years at the Abdus Salam ICTP in Trieste, Italy, as a postdoctoral fellow. In 1998, I entered the National Council for Scientific Research (CNRS) of France with a permanent position as junior researcher. I spent 10 years at the Laboratoire de Physique Théorique at the University of Paris-Sud. I am currently CNRS senior researcher at the Centre de Physique Théorique in Marseille. I have also been research scientist at the Institute for Scientific Interchange in Turin, Italy from 2006 to 2019 and I am Specially Appointed Professor at the Tokyo Tech World Research Hub Initiative (Tokyo, Japan) since April 2019. From April 2014 to November 2020, I have been vice-president treasurer of the Complex Systems Society. Since January 2018, I am board member of the NetSci Society. Since December 2020, I am Divisional Associate Editor of Physical Review Letters.
 Since January 2018, I am deputy director of the Centre de Physique Théorique.
 
-|<img src="/assets/image/speakers_2022/potraitDavid.jpg" width="20%"/>|[David Chavalarias](https://iscpif.fr/chavalarias/) - CNRS Research Director, Center for Social Mathematics Analysis (CAMS), School of Advanced Studies in Social Sciences (EHESS). Director of the Complex Systems Institute of Paris Île-de-France.|
+|<img src="/assets/image/speakers_2022/portraitDavid.jpg" width="20%"/>|[David Chavalarias](https://iscpif.fr/chavalarias/) - CNRS Research Director, Center for Social Mathematics Analysis (CAMS), School of Advanced Studies in Social Sciences (EHESS). Director of the Complex Systems Institute of Paris Île-de-France.|
 
 **Bio** - 
 
