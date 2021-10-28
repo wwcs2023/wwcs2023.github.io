@@ -13,14 +13,12 @@ You can contact us at [wwcs2022@gmail.com](mailto:wwwcs2022@gmail.com) or write 
 |<img src="/assets/image/claire.jpg" height="120px"  />|<img src="/assets/image/hanae.jpg" height="120px"  />|<img src="/assets/image/furkan.png" height="120px"  />|<img src="/assets/image/irene_malvestio.jpg" height="120px"  /> | 
 |University of Bourgogne <br> Franche-Comté, France|University of Bourgogne <br> Franche-Comté, France|Boğaziçi University, <br> Turkey|Politecnico di Milano, <br> Italy|
 
-|[Chakresh Kr. Singh](https://chakreshiitgn.github.io/)|[Liubov Tupikina](https://sites.google.com/view/liubovkmatematike/)|[Anna Keuchenius](https://www.uva.nl/en/profile/k/e/a.keuchenius/a.keuchenius.html)|
+|[Chakresh Kr. Singh](https://chakreshiitgn.github.io/)|[Liubov Tupikina](https://sites.google.com/view/liubovkmatematike/)|[Anna Keuchenius](https://www.uva.nl/en/profile/k/e/a.keuchenius/a.keuchenius.html)|[Stephany Rajey](https://lib.u-bourgogne.fr/en/equipe/rajeh-stephany-2)|
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="/assets/image/chakresh.png" height="120px"  />|<img src="/assets/image/liubov.png" height="120px"  />|<img src="/assets/image/blank.png" height="120px"  /> |
-|CRI, <br> France|Nokia Bell Labs & CRI <br> France|University of Amsterdam, <br> Netherlands|
+|<img src="/assets/image/chakresh.png" height="120px"  />|<img src="/assets/image/liubov.png" height="120px"  />|<img src="/assets/image/blank.png" height="120px"  /> |<img src="/assets/image/chakresh.png" height="120px"  />|
+|CRI, <br> France|Nokia Bell Labs & CRI <br> France|University of Amsterdam, <br> Netherlands|University of Bourgogne Franche-Comté,<br> France|
 
-|[Stephany Rajey](https://lib.u-bourgogne.fr/en/equipe/rajeh-stephany-2)|
-|:---------------:|
-|<img src="/assets/image/chakresh.png" height="120px"  />|
+
 ## Steering Committee
 
 |Sanja Selakovic|Leto Peel|Mateusz Wiliński|Tomasz Raducha|
