@@ -61,16 +61,16 @@ author:
 menu:
   - title: About
     url: /about/
-  - title: Programme
-    url:   /programme/
+  - title: Program
+    url:   /program/
   - title: Speakers
     url:   /speakers/
   - title: Venue
     url:   /venue/
 #  - title: Registration
 #    url: /registration/
-  - title: Contacts
-    url:   /contacts/
+  - title: Committees
+    url:   /committees/
   - title: Application
     url:   /application/
   - title: Sponsors
