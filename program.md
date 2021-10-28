@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Programme
+title:  Program
 ---
 
 TBA
