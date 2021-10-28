@@ -6,7 +6,7 @@ title:  Committees
 
 You can contact us at [wwcs2022@gmail.com](mailto:wwwcs2022@gmail.com) or write us directly using the following information.
 
-## Organizers
+## Scientific Committee
 
 |[Claire Lagesse](http://thema.univ-fcomte.fr/page_personnelle/clagesse)|[Hanae El Gouj](http://thema.univ-fcomte.fr/page_personnelle/hanae)|[Furkan Gursoy](https://furkangursoy.github.io)|[Irene Malvestio](https://www.som.polimi.it/people/malvestio-irene/)|
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
@@ -18,6 +18,9 @@ You can contact us at [wwcs2022@gmail.com](mailto:wwwcs2022@gmail.com) or write 
 |<img src="/assets/image/chakresh.png" height="120px"  />|<img src="/assets/image/liubov.png" height="120px"  />|<img src="/assets/image/blank.png" height="120px"  /> |
 |CRI, <br> France|Nokia Bell Labs & CRI <br> France|University of Amsterdam, <br> Netherlands|
 
+|[Stephany Rajey](https://lib.u-bourgogne.fr/en/equipe/rajeh-stephany-2)|
+|:---------------:|
+|<img src="/assets/image/chakresh.png" height="120px"  />|
 ## Steering Committee
 
 |Sanja Selakovic|Leto Peel|Mateusz Wiliński|Tomasz Raducha|
