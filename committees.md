@@ -11,7 +11,7 @@ You can contact us at [wwcs2022@gmail.com](mailto:wwwcs2022@gmail.com) or write 
 |[Claire Lagesse](http://thema.univ-fcomte.fr/page_personnelle/clagesse)|[Hanae El Gouj](http://thema.univ-fcomte.fr/page_personnelle/hanae)|[Furkan Gursoy](https://furkangursoy.github.io)|[Irene Malvestio](https://www.som.polimi.it/people/malvestio-irene/)|
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 |<img src="/assets/image/claire.jpg" height="120px"  />|<img src="/assets/image/hanae.jpg" height="120px"  />|<img src="/assets/image/furkan.png" height="120px"  />|<img src="/assets/image/irene_malvestio.jpg" height="120px"  /> | 
-|University of Bourgogne <br> Franche-Comté, France|University of Burgundy <br> Franche-Comté, France|Boğaziçi University, <br> Turkey|Politecnico di Milano, <br> Italy|
+|University of Burgundy <br> Franche-Comté, France|University of Burgundy <br> Franche-Comté, France|Boğaziçi University, <br> Turkey|Politecnico di Milano, <br> Italy|
 
 |[Chakresh Kr. Singh](https://chakreshiitgn.github.io/)|[Liubov Tupikina](https://sites.google.com/view/liubovkmatematike/)|[Anna Keuchenius](https://www.uva.nl/en/profile/k/e/a.keuchenius/a.keuchenius.html)|[Stephany Rajeh](https://lib.u-bourgogne.fr/en/equipe/rajeh-stephany-2)|
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
