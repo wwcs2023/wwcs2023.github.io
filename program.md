@@ -3,4 +3,6 @@ layout: page
 title:  Program
 ---
 
-TBA
+## Tentative Program 
+
+<img style="float: centre;" src="/assets/Program.png" width="80%"/>
