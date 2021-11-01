@@ -5,4 +5,4 @@ title:  Program
 
 ## Tentative Program 
 
-<img style="float: centre;" src="/assets/Program.png" width="80%"/>
+<img style="float: centre;" src="/assets/image/Program.png" width="80%"/>
