@@ -22,7 +22,7 @@ More details on their [website](https://www.salineroyale.com/home/). Travel info
 
 ## Travel information:
 
-<div class="mapouter"><div class="gmap_canvas"><iframe width="450" height="350" id="gmap_canvas" src="https://www.google.com/maps/place/Saline+Royale+d'Arc-et-Senans/@47.0331753,5.7754376,613m/data=!3m2!1e3!4b1!4m5!3m4!1s0x478d41ac4ac8eb7b:0x8626d98cebd3d0b!8m2!3d47.0331753!4d5.7776263&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.bitgeeks.net/embed-google-map/">bitgeeks.net</a></div><style>.mapouter{position:relative;text-align:right;height:350px;width:450px;}.gmap_canvas {overflow:hidden;background:none!important;height:350px;width:450px;}</style></div>
+[Venue on Google Maps](https://www.google.com/maps/place/Saline+Royale+d'Arc-et-Senans/@47.0331753,5.7754376,613m/data=!3m2!1e3!4b1!4m5!3m4!1s0x478d41ac4ac8eb7b:0x8626d98cebd3d0b!8m2!3d47.0331753!4d5.7776263)
 
 Transport between Besançon and the venue in Arc-et-Senans will be provided. Please see the program.
 
