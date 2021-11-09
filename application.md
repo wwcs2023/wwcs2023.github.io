@@ -3,7 +3,7 @@ layout: page
 title:  Application
 ---
 
-- Deadline for applications: ~November 8th, 2021~ November 15th,2021 
+- Deadline for applications: ~November 8th, 2021~ November 15th, 2021 
 - Notification of acceptance: November 22nd, 2021
 
 
