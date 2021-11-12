@@ -35,7 +35,7 @@ The study of complex systems calls for an interdisciplinary approach combining d
 
 # Contacts
 
-Email us at: [wwwcs2022@gmail.com](mailto:wwcs2022@gmail.com)
+Email us at: [wwcs2022@gmail.com](mailto:wwcs2022@gmail.com)
 <!-- Twitter: "@winter_complex" -->
 
 <center>
