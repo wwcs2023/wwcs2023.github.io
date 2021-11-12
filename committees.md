@@ -4,7 +4,7 @@ title:  Committees
 ---
 
 
-You can contact us at [wwcs2022@gmail.com](mailto:wwwcs2022@gmail.com) or write us directly using the following information.
+You can contact us at [wwcs2022@gmail.com](mailto:wwcs2022@gmail.com) or write us directly using the following information.
 
 ## Scientific Committee
 
