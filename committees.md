@@ -15,7 +15,7 @@ You can contact us at [wwcs2022@gmail.com](mailto:wwcs2022@gmail.com) or write u
 
 |[Chakresh Kr. Singh](https://chakreshiitgn.github.io/)|[Liubov Tupikina](https://sites.google.com/view/liubovkmatematike/)|[Anna Keuchenius](https://www.uva.nl/en/profile/k/e/a.keuchenius/a.keuchenius.html)|[Stephany Rajeh](https://lib.u-bourgogne.fr/en/equipe/rajeh-stephany-2)|
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="/assets/image/chakresh.png" height="120px"  />|<img src="/assets/image/liubov.png" height="120px"  />|<img src="/assets/image/blank.png" height="120px"  /> |<img src="/assets/image/StephanyRajeh.jpg" height="120px"  />|
+|<img src="/assets/image/chakresh.png" height="120px"  />|<img src="/assets/image/liubov.png" height="120px"  />|<img src="/assets/image/anna.png" height="120px"  /> |<img src="/assets/image/StephanyRajeh.jpg" height="120px"  />|
 |CRI, <br> France|Nokia Bell Labs & CRI <br> France|University of Amsterdam, <br> Netherlands|University of Burgundy <br> Franche-Comté, France|
 
 
