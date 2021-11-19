@@ -9,7 +9,7 @@ title:  Support
 
 [<img src="/assets/image/sponsors/logo_UFC_new.png" width="40%"/>](https://www.univ-fcomte.fr/) &nbsp; &nbsp; &nbsp; [<img src="/assets/image/sponsors/thema.jpg" width="35%"/>](https://thema.univ-fcomte.fr/) 
 
-[<img src="/assets/image/sponsors/logoixxi.jpg" width="35%"/>](http://www.ixxi.fr/) &nbsp; &nbsp; &nbsp; [<img src="/assets/image/sponsors/logo-uB-filet.jpg" width="35%"/>](www.u-bourgogne.fr/)
+[<img src="/assets/image/sponsors/logoixxi.jpg" width="35%"/>](http://www.ixxi.fr/) &nbsp; &nbsp; &nbsp; [<img src="/assets/image/sponsors/logo-uB-filet.jpg" width="35%"/>](https://www.u-bourgogne.fr/)
 
 [<img src="/assets/image/sponsors/logo-lib.jpg" width="35%"/>](https://lib.u-bourgogne.fr/) &nbsp; &nbsp; &nbsp; [<img src="/assets/image/sponsors/adcg_logo.jpg" width="35%"/>]()
 
