@@ -5,7 +5,7 @@ title:  Support
 
 [<img src="/assets/image/sponsors/sr_logo.png" width="35%"/>](https://www.salineroyale.com/home/) &nbsp; &nbsp; &nbsp; [<img src="/assets/image/sponsors/IAS.jpg" width="55%"/>](https://ias.uva.nl/?cb) 
 
-[<img src="/assets/image/sponsors/logo_UBFC.png" width="40%"/>](https://www.ubfc.fr/) &nbsp; &nbsp; &nbsp; [<img src="/assets/image/sponsors/CNRS-ISC-PIF" width="40%"/>](https://iscpif.fr/?lang=en) 
+[<img src="/assets/image/sponsors/logo_UBFC.png" width="40%"/>](https://www.ubfc.fr/) &nbsp; &nbsp; &nbsp; [<img src="/assets/image/sponsors/CNRS-ISC-PIF.png" width="40%"/>](https://iscpif.fr/?lang=en) 
 
 [<img src="/assets/image/sponsors/logo_UFC_new.png" width="40%"/>](https://www.univ-fcomte.fr/) &nbsp; &nbsp; &nbsp; [<img src="/assets/image/sponsors/thema.jpg" width="40%"/>](https://thema.univ-fcomte.fr/) 
 
