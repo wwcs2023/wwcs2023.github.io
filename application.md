@@ -31,7 +31,7 @@ The fees for online participation is 50 (~€).
 
 
 ## Registration deadline:
-- December 1st, 2021
+- December 10th, 2021
 
 
 ## Payment method:
