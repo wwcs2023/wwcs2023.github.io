@@ -12,4 +12,4 @@ title:  Program
 
 Online participants will be able to follow some of the activities going on off-line: the general introduction, the talks of invited speakers, the tutorials, and the final Projects Presentations where they will also present their projects. Other activities will be dedicated to online participants only: Two evenings events of games and social events. Finally, the work on projects of online participants will be organised among online participants only.
 
-<img style="float: centre;" src="/assets/image/OnlineProgram.jpg" width="80%"/>
+<img style="float: centre;" src="/assets/image/OnlineProgram.JPG" width="80%"/>
