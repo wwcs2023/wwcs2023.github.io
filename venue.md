@@ -39,11 +39,11 @@ The closest major airports include airports in Basel-Mulhouse-Freiburg, Lyon, an
 
 The bus transfer on Monday morning will be from Besancon to the venue (the meeting for the bus is at 9 for a departure around 9:20 / 9:30; the meeting point is a 23 minutes walking distance from the train station, see the map). 
 
-<img src="/assets/image/venue_2022/map1.jpg" width="100%" /> 
+<img src="/assets/image/venue_2022/map1.png" width="100%" /> 
 
 The bus transfer on Friday morning will be from the venue to Besancon. The activities on Friday will take place in Besancon. If you are planning to book accommodation for extra nights before or after the event, you are advised to consider booking it in Besancon.
 Alternatively, it is also possible to book additional nights at the Saline Royal.
 
 If you prefer to join the Saline Royal on your own due to time constraint, you could take the train directly to Arc-Et-Senans (which is 3 minutes from Saline Royal) - see the map:
 
-<img src="/assets/image/venue_2022/map2.jpg" width="100%" /> 
+<img src="/assets/image/venue_2022/map2.png" width="100%" /> 
