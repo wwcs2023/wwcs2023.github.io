@@ -37,7 +37,7 @@ The closest major airports include airports in Basel-Mulhouse-Freiburg, Lyon, an
 
 **More Information**
 
-The bus transfer on Monday morning will be from Besancon to the venue (the meeting for the bus is at 9 for a departure around 9:20 / 9:30; the meeting point is a 23 minutes walking distance from the train station, see the map). 
+The meeting point on Monday morning, for the transfer to the venue, will be at "Parking Chamars" at 9:00.
 
 <img src="/assets/image/venue_2022/map1.png" width="60%" /> 
 
