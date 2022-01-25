@@ -3,8 +3,6 @@ layout: page
 title:  Program
 ---
 
-## Program
-
 ### On-site
 <img style="float: centre;" src="/assets/image/program_final.png" width="80%"/>
 
