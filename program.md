@@ -3,7 +3,7 @@ layout: page
 title:  Program
 ---
 
-## Tentative Programs
+## Program
 
 ### On-site
 <img style="float: centre;" src="/assets/image/program_final.png" width="80%"/>
