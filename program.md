@@ -4,7 +4,7 @@ title:  Program
 ---
 
 ### On-site
-<img style="float: centre;" src="/assets/image/program_final.png" width="80%"/>
+<img style="float: centre;" src="/assets/image/onsite_final2.png" width="80%"/>
 
 ### Online
 
