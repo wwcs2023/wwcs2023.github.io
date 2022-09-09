@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://wwcs2022.github.io
+url:                   https://wwcs2023.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Winter Workshop on Complex Systems 2022
+title:                 Winter Workshop on Complex Systems 2023
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -31,7 +31,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  24 -- 28 January 2022, France
+  Jan 30 -- Feb 3 2023, Amsterdam
 
 # A list of keywords for your blog
 keywords:              []
@@ -39,7 +39,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/Logo_WWCS_2022_white.png
+logo:                  /assets/icons/wwcs23_logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
