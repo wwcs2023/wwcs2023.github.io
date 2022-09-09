@@ -2,14 +2,14 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: about #home il layout home ti mette la lista di pagine
-title: Winter Workshop on Complex Systems 2022
+title: Winter Workshop on Complex Systems 2023
 ---
 The **Winter Workshop on Complex Systems** is a one-week workshop where young researchers from all over the world gather together for discussing complex systems.
 
 **The primary focus of the workshop is for participants to engage into novel research projects.**
 
-This is the 7th edition of the WWCS and it will be held in East of France from **January 24th to January 28th 2022**.
-Previously it was held in [Brussels](https://ai.vub.ac.be/complexity/), [Madrid](http://wwcs2016.altervista.org/wwcswordyversion/?doing_wp_cron=1557075926.8519909381866455078125), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), [Utrecht](https://wwcs2018.github.io/), [Zakopane](http://wwcs2019.org), and [Charmey](https://wwcs2020.github.io/).
+This is the 8th edition of the WWCS and it will be held in Amsterdam from **January 30th to Feb 3rd 2023**.
+Previously it was held in [Brussels](https://ai.vub.ac.be/complexity/), [Madrid](http://wwcs2016.altervista.org/wwcswordyversion/?doing_wp_cron=1557075926.8519909381866455078125), [Petnica](https://wwcs2017ed.wixsite.com/wwcs), [Utrecht](https://wwcs2018.github.io/), [Zakopane](http://wwcs2019.org), [Charmey](https://wwcs2020.github.io/), and [Besançon](https://wwcs2022.github.io/).
 
 
 # What are complex systems?
@@ -21,16 +21,16 @@ The study of complex systems calls for an interdisciplinary approach combining d
 
 
 ## Applications:
-- Start of applications: October 15th, 2021
-- Deadline for applications: November 8th, 2021
-- Notification of acceptance: November 22nd, 2021
+- Start of applications: XXX
+- Deadline for applications: XXX
+- Notification of acceptance: XXX
 
 
 ## Registration deadline:
-- December 1st, 2021
+- December XXX
 
 ## Workshop Dates:
-- **24 January - 28 January 2022**
+- **January 30th to Feb 3rd 2023**
 
 
 # Contacts
