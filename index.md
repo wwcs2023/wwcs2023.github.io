@@ -21,13 +21,13 @@ The study of complex systems calls for an interdisciplinary approach combining d
 
 
 ## Applications:
-- Start of applications: XXX
-- Deadline for applications: XXX
-- Notification of acceptance: XXX
+- Start of applications: TBA
+- Deadline for applications: TBA
+- Notification of acceptance: TBA
 
 
 ## Registration deadline:
-- December XXX
+- TBA
 
 ## Workshop Dates:
 - **January 30th to Feb 3rd 2023**
@@ -35,7 +35,7 @@ The study of complex systems calls for an interdisciplinary approach combining d
 
 # Contacts
 
-Email us at: [wwcs2022@gmail.com](mailto:wwcs2022@gmail.com)
+Email us at: [wwcs2023amsterdam@gmail.com](mailto:wwcs2023amsterdam@gmail.com)
 <!-- Twitter: "@winter_complex" -->
 
 <center>
