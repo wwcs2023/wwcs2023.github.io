@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Venue - Saline Royale
+title:  Venue
 ---
 
 
