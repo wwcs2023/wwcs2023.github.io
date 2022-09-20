@@ -8,14 +8,17 @@ You can contact us at [wwcs2023amsterdam@gmail.com](mailto:wwcs2023amsterdam@gma
 
 ## Scientific Committee
 
-|[Claire Lagesse](http://thema.univ-fcomte.fr/page_personnelle/clagesse)|[Hanae El Gouj](http://thema.univ-fcomte.fr/page_personnelle/hanae)|[Furkan Gursoy](https://furkangursoy.github.io)|[Irene 
+|Eric Dignum | Casper van Elteren | Adam Finnemann |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="/assets/image/claire.jpg" height="120px"  />|<img src="/assets/image/hanae.jpg" height="120px"  />|<img src="/assets/image/furkan.png" height="120px"  />|<img src="/assets/image/irene_malvestio.jpg" height="120px"  /> | 
-|University of Burgundy <br> Franche-Comté, France|University of Burgundy <br> Franche-Comté, France|
+|<img src="/assets/image/claire.jpg" height="120px"  />|
+<img src="/assets/image/hanae.jpg" height="120px"  />|
+<img src="/assets/image/furkan.png" height="120px"  />|
+|University of Burgundy <br> Franche-Comté, France | University of Burgundy <br> Franche-Comté, France|
 
-|[Chakresh Kr. Singh](https://chakreshiitgn.github.io/)|[Liubov Tupikina](https://sites.google.com/view/liubovkmatematike/)
+|Jonas Haslbeck|Karoline Huth
 |:-------------------------:|:-------------------------:|
-|<img src="/assets/image/chakresh.png" height="120px"  />|<img src="/assets/image/liubov.png" height="120px"  />|<img src="/assets/image/anna.png" height="120px"  /> |<img src="/assets/image/StephanyRajeh.jpg" height="120px"  />|
+|<img src="/assets/image/chakresh.png" height="120px"  />|
+<img src="/assets/image/liubov.png" height="120px"  />|
 |CRI, <br> France|Nokia Bell Labs & CRI <br> France|
 
 
