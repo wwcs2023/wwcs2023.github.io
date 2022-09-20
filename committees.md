@@ -8,20 +8,15 @@ You can contact us at [wwcs2023amsterdam@gmail.com](mailto:wwcs2023amsterdam@gma
 
 ## Scientific Committee
 
-|Eric Dignum|Casper van Elteren|Adam Finnemann|
+|[Eric Dignum](https://www.linkedin.com/in/ericdignum/)|Casper van Elteren|[Adam Finnemann](https://afinnemann.github.io/afinnemann/)|
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| A | B | C |
-| X | Y | Z |
-
-|Eric Dignum|Casper van Elteren|Adam Finnemann|
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="/assets/image23/committee/eric.png" height="120px"  />| <img src="/assets/image/hanae.jpg" height="120px"  />| <img src="/assets/image23/committee/adam.jpg" height="120px"  />|
+|<img src="/assets/image23/committee/eric.png" height="120px"  />| <img src="/assets/image23/committee/casper.png" height="120px"  />| <img src="/assets/image23/committee/adam.png" height="120px"  />|
 |Computational Science Lab, University of Amsterdam | Computational Science Lab, University of Amsterdam | Psychological Methods, University of Amsterdam |
 
-|Jonas Haslbeck|Karoline Huth|
+|[Jonas Haslbeck](https://jonashaslbeck.com/)|Karoline Huth|
 |:-------------------------:|:-------------------------:|
-|<img src="/assets/image23/committee/jonas.jpg" height="120px"  />| <img src="/assets/image/liubov.png" height="120px"  />|
-| Psychological Methods, University of Amsterdam; Faculty of Psychology and Neuroscience, Maastricht University | YYY |
+|<img src="/assets/image23/committee/jonas.jpg" height="120px"  />| <img src="/assets/image23/committee/karoline.png" height="120px"  />|
+| Psychological Methods, University of Amsterdam; Faculty of Psychology and Neuroscience, Maastricht University | Psychological Methods, University of Amsterdam |
 
 
 ## Steering Committee
