@@ -13,13 +13,14 @@ You can contact us at [wwcs2023amsterdam@gmail.com](mailto:wwcs2023amsterdam@gma
 |<img src="/assets/image/claire.jpg" height="120px"  />|
 <img src="/assets/image/hanae.jpg" height="120px"  />|
 <img src="/assets/image/furkan.png" height="120px"  />|
-|University of Burgundy <br> Franche-Comté, France | University of Burgundy <br> Franche-Comté, France|
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|XXX | YYY | ZZZ |
 
 |Jonas Haslbeck|Karoline Huth
 |:-------------------------:|:-------------------------:|
-|<img src="/assets/image/chakresh.png" height="120px"  />|
+|<img src="/assets/image23/committee/jonas.jpg" height="120px"  />|
 <img src="/assets/image/liubov.png" height="120px"  />|
-|CRI, <br> France|Nokia Bell Labs & CRI <br> France|
+| XXX | YYY |
 
 
 ## Steering Committee
