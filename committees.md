@@ -8,18 +8,14 @@ You can contact us at [wwcs2023amsterdam@gmail.com](mailto:wwcs2023amsterdam@gma
 
 ## Scientific Committee
 
-|Eric Dignum | Casper van Elteren | Adam Finnemann |
+|Eric Dignum|Casper van Elteren|Adam Finnemann|
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="/assets/image/claire.jpg" height="120px"  />|
-<img src="/assets/image/hanae.jpg" height="120px"  />|
-<img src="/assets/image/furkan.png" height="120px"  />|
-|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img src="/assets/image23/committee/eric.png" height="120px"  />| <img src="/assets/image/hanae.jpg" height="120px"  />| <img src="/assets/image23/committee/adam.jpg" height="120px"  />|
 |XXX | YYY | ZZZ |
 
-|Jonas Haslbeck|Karoline Huth
+|Jonas Haslbeck|Karoline Huth|
 |:-------------------------:|:-------------------------:|
-|<img src="/assets/image23/committee/jonas.jpg" height="120px"  />|
-<img src="/assets/image/liubov.png" height="120px"  />|
+|<img src="/assets/image23/committee/jonas.jpg" height="120px"  />| <img src="/assets/image/liubov.png" height="120px"  />|
 | XXX | YYY |
 
 
