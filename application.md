@@ -3,8 +3,6 @@ layout: page
 title:  Application
 ---
 
-## Application
-
 To attend the winter school, we ask all interested individuals to submit an application form and a CV. Bear in mind the following dates:
 
 - Start of applications: Sept 21st

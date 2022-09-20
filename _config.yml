@@ -67,6 +67,8 @@ menu:
     url:   /speakers/
   - title: Venue
     url:   /venue/
+  - title: Accommodation
+    url:   /accommodation/
 #  - title: Registration
 #    url: /registration/
   - title: Committees
