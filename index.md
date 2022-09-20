@@ -21,10 +21,9 @@ The study of complex systems calls for an interdisciplinary approach combining d
 
 
 ## Applications:
-- Start of applications: TBA
-- Deadline for applications: TBA
-- Notification of acceptance: TBA
-
+- Start of applications: Sept 21st
+- Deadline for applications: Oct 10th
+- Notification of acceptance: Nov 15th
 
 ## Registration deadline:
 - TBA
