@@ -20,9 +20,6 @@ Previously it was held in Brussels, [Madrid](http://wwcs2016.altervista.org/wwcs
 - Deadline for applications: Oct 10th
 - Notification of acceptance: Nov 15th
 
-## Registration deadline:
-- TBA
-
 ## Workshop Dates:
 - **January 30th to Feb 3rd 2023**
 
