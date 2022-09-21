@@ -15,8 +15,8 @@ You can contact us at [wwcs2023amsterdam@gmail.com](mailto:wwcs2023amsterdam@gma
 
 |[Jonas Haslbeck](https://jonashaslbeck.com/)|Karoline Huth|
 |:-------------------------:|:-------------------------:|
-|<img src="/assets/image23/committee/jonas.jpg" height="120px"  />| <img src="/assets/image23/committee/karoline.png" height="120px"  />|
-| Psychological Methods, <br> University of Amsterdam;<br>  Faculty of Psychology and Neuroscience, <br> Maastricht University | Psychological Methods,<br>  University of Amsterdam |
+|<img src="/assets/image23/committee/jonas.jpg" height="120px"  />| <img src="/assets/image23/committee/karoline.jpg" height="120px"  />|
+| Psychological Methods, <br> University of Amsterdam;<br>  Faculty of Psychology and Neuroscience, <br> Maastricht University | Centre for Urban Mental Health,<br>  University of Amsterdam; <br> Department of Psychological Methods, <br> University of Amsterdam; <br> Department of Psychiatry, <br> Amsterdam UMC |
 
 
 ## Steering Committee
