@@ -13,7 +13,7 @@ You can contact us at [wwcs2023amsterdam@gmail.com](mailto:wwcs2023amsterdam@gma
 |<img src="/assets/image23/committee/eric.png" height="120px"  />| <img src="/assets/image23/committee/casper.png" height="120px"  />| <img src="/assets/image23/committee/adam.png" height="120px"  />|
 |Computational Science Lab, <br> University of Amsterdam | Computational Science Lab, <br> University of Amsterdam | Psychological Methods,<br>  University of Amsterdam |
 
-|[Jonas Haslbeck](https://jonashaslbeck.com/)|Karoline Huth|
+|[Jonas Haslbeck](https://jonashaslbeck.com/)|[Karoline Huth](https://twitter.com/karoline_huth)|
 |:-------------------------:|:-------------------------:|
 |<img src="/assets/image23/committee/jonas.jpg" height="120px"  />| <img src="/assets/image23/committee/karoline.jpg" height="120px"  />|
 | Psychological Methods, <br> University of Amsterdam;<br>  Faculty of Psychology and Neuroscience, <br> Maastricht University | Centre for Urban Mental Health,<br>  University of Amsterdam; <br> Department of Psychological Methods, <br> University of Amsterdam; <br> Department of Psychiatry, <br> Amsterdam UMC |
