@@ -7,10 +7,10 @@ You can contact us at [wwcs2023amsterdam@gmail.com](mailto:wwcs2023amsterdam@gma
 
 ## Scientific Committee
 
-|[Eric Dignum](https://www.linkedin.com/in/ericdignum/)|Casper van Elteren|[Adam Finnemann](https://afinnemann.github.io/afinnemann/)|
+|[Eric Dignum](https://www.linkedin.com/in/ericdignum/)|[Casper van Elteren](cvaneleteren.github.io)|[Adam Finnemann](https://afinnemann.github.io/afinnemann/)|
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="/assets/image23/committee/eric.png" height="120px"  />| <img src="/assets/image23/committee/casper.png" height="120px"  />| <img src="/assets/image23/committee/adam.png" height="120px"  />|
-|Computational Science Lab, <br> University of Amsterdam | Computational Science Lab, <br> University of Amsterdam | Psychological Methods,<br>  University of Amsterdam |
+|<img src="/assets/image23/committee/eric.png" height="120px"  />| <img src="/assets/image23/committee/casper.jpg" height="120px"  />| <img src="/assets/image23/committee/adam.png" height="120px"  />|
+|Computational Science Lab <br> Institute for Advanced Study, <br> University of Amsterdam | Computational Science Lab, <br> University of Amsterdam | Psychological Methods,<br>  University of Amsterdam |
 
 |[Jonas Haslbeck](https://jonashaslbeck.com/)|[Karoline Huth](https://twitter.com/karoline_huth)|
 |:-------------------------:|:-------------------------:|
