@@ -22,10 +22,10 @@ You can contact us at [wwcs2023amsterdam@gmail.com](mailto:wwcs2023amsterdam@gma
 
 |Claire Lagesse|Furkan Gursoy|Javier Garcia-Bernardo|
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="/assets/image/claire.jpg" height="120px" /> | <img src="/assets/image/furkan.jpg" height="120px" /> | <img src="/assets/image/javier.jpg" height="120px"  /> | 
+|<img src="/assets/image23/committee/SC/claire.jpg" height="120px" /> | <img src="/assets/image23/committee/SC/furkan.jpg" height="120px" /> | <img src="/assets/image23/committee/SC/javier.jpg" height="120px"  /> | 
 |University of Burgundy, <br> France|University of Houston, <br> USA|Utrecht University, <br>  Netherlands|
 
 |Alexandre Bovet|Matteo Cinelli|Mateusz Wiliński|
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="/assets/image/alex.jpg" height="120px" /> | <img src="/assets/image/matteo.jpg" height="120px"/> | <img src="/assets/image/mateusz.jpg" height="120px"  />|
+|<img src="/assets/image23/committee/SC/alex.jpg" height="120px" /> | <img src="/assets/image23/committee/SC/matteo.jpg" height="120px"/> | <img src="/assets/image23/committee/SC/mateusz.jpg" height="120px"  />|
 |University of Zurich, <br> Switzerland| Sapienza University <br> of Rome, Italy | Los Alamos National <br> Laboratory, USA|
