@@ -20,12 +20,12 @@ You can contact us at [wwcs2023amsterdam@gmail.com](mailto:wwcs2023amsterdam@gma
 
 ## Steering Committee
 
-|Sanja Selakovic|Leto Peel|Mateusz Wiliński|Tomasz Raducha|
-|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="/assets/image/sanja_150.jpg" height="120px" /> | <img src="/assets/image/leopen_150.jpg" height="120px" /> | <img src="/assets/image/mateusz_150.jpg" height="120px"  /> | <img src="/assets/image/tomasz.jpg" height="120px"  />|
-|Wageningen University, <br> Netherlands|Maastricht University, <br> Netherlands|Los Alamos National Laboratory, <br> United States|Institute for Cross-Disciplinary Physics <br> and Complex Systems,Spain|
-
-|Javier Garcia-Bernardo|Alexandre Bovet|Matteo Cinelli|
+|Claire Lagesse|Furkan Gursoy|Javier Garcia-Bernardo|
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="/assets/image/javier_150.jpg" height="120px" /> | <img src="/assets/image/alex.jpg" height="120px"/> | <img src="/assets/image/matteo.jpg" height="120px"  />|
-|University of Amsterdam, <br> Netherlands| University of Oxford, <br> United Kingdom|Ca'Foscari University of Venice, <br> Italy|
+|<img src="/assets/image/claire.jpg" height="120px" /> | <img src="/assets/image/furkan.jpg" height="120px" /> | <img src="/assets/image/javier.jpg" height="120px"  /> | 
+|University of Burgundy, <br> France|University of Houston, <br> USA|Utrecht University, <br>  Netherlands|
+
+|Alexandre Bovet|Matteo Cinelli|Mateusz Wiliński|
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img src="/assets/image/alex.jpg" height="120px" /> | <img src="/assets/image/matteo.jpg" height="120px"/> | <img src="/assets/image/mateusz.jpg" height="120px"  />|
+|University of Zurich, <br> Switzerland| Sapienza University <br> of Rome, Italy | Los Alamos National <br> Laboratory, USA|
