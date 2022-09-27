@@ -11,6 +11,14 @@ Karoline Wiesner is Professor of Complexity Science at the University of Potsdam
 
 <br>
 
+<img style="float: centre;" src="/assets/image23/speakers/maria.jpg" width="25%"/>
+
+[Maria del Rio-Chanona](https://mariadelriochanona.info/)
+
+Maria is a JSMF Postdoctoral Fellow at the Complexity Science Hub Vienna. Her research draws from network science, natural language processing, and agent-based modelling and focuses on labour economics, the future of work, green transition, the economic impact of the Covid-19 pandemic and the Great Resignation.Maria has a PhD in Mathematics from Oxford University, where she was part of the Complexity Economics group of the Institute for New Economic Thinking at the Oxford Martin School. She has worked alongside international policy organizations, including the International Monetary Fund and the International Labour Organisation. Before her postgraduate studies, Maria did her undergraduate studies in Physics at UNAM, Mexico.
+
+<br>
+
 <img style="float: centre;" src="/assets/image23/speakers/deroos.png" width="25%"/>
 
 [André de Roos](https://staff.fnwi.uva.nl/a.m.deroos/)
