@@ -6,7 +6,7 @@ title:  Application
 To attend the winter school, we ask all interested individuals to submit an application form and a CV. Bear in mind the following dates:
 
 - Start of applications: Sept 21st
-- Deadline for applications: Oct 10th
+- Deadline for applications: Oct 31st
 - Notification of acceptance: Nov 15th
 
 The application form is available [here](https://forms.gle/x5U1eX4tpsoRYzHS7).

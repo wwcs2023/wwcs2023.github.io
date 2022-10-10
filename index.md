@@ -17,7 +17,7 @@ Previously it was held in Brussels, [Madrid](http://wwcs2016.altervista.org/wwcs
 
 ## Applications:
 - Start of applications: Sept 21st
-- Deadline for applications: Oct 10th
+- Deadline for applications: Oct 31st
 - Notification of acceptance: Nov 15th
 
 ## Workshop Dates:
