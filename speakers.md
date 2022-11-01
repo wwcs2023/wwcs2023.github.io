@@ -25,4 +25,11 @@ Maria is a JSMF Postdoctoral Fellow at the Complexity Science Hub Vienna. Her re
 
 André de Roos is professor of theoretical ecology and external faculty member Santa-Fe (more info soon).
 
+<br>
+
+<img style="float: centre;" src="/assets/image23/speakers/fariba.jpg" width="25%"/>
+
+[Fariba Karimi](https://networkinequality.com/people/fariba-karimi/)
+
+Fariba Karimi has been a team leader in computational social science at the CSH Vienna and an assistant professor at the Department of Network and Data Science at CEU since March 2021. Fariba received her PhD degree in physics and computational science from Umea University (Sweden) in 2015 and was a PostDoc at GESIS – Leibniz Institute for Social Sciences in Germany. Fariba’s research focuses on computational social science, the emergence of biases and inequality in networks and algorithms, and modeling human behavior. Her recent research revolves around the topics of visibility of minorities in social networks, the impact of network structure on ranking and recommender algorithms, and disparities in academia and its impact on under-represented groups. She combines statistical analyses of large datasets of online interactions with computational models, agent-based modeling, and network analysis. In 2022, Fariba together with a team of international researchers was awarded an EU Horizon grant to study multi-criteria fairness in AI systems.
 
